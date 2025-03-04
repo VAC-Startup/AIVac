@@ -27,130 +27,178 @@ const isCourseOfferedInTerm = (course, term) => {
 };
 import React, { useState, useEffect } from "react";
 
+// const FourYearCoursePlanner = () => {
+//     const [allCourses, setAllCourses] = useState([]);
+
+//     useEffect(() => {
+//         fetch("/courses_with_offerings.json")  // Fetch from public folder
+//             .then((response) => response.json())
+//             .then((data) => setAllCourses(data))
+//             .catch((error) => console.error("Error loading courses:", error));
+//     }, []);
+
+//     return (
+//         <div>
+//             <h1>Four Year Course Planner</h1>
+//             <ul>
+//                 {allCourses.map((course) => (
+//                     <li key={course.course_id}>
+//                         {course.course_id} - {course.course_name} (Offered: {course.offerings.join(", ")})
+//                     </li>
+//                 ))}
+//             </ul>
+//         </div>
+//     );
 const FourYearCoursePlanner = () => {
-  // Sample course data - in a real app this would come from an API
-  const allCourses = [
-    {
-      id: "cs101",
-      name: "Introduction to Computer Science",
-      units: 4.0,
-      department: "CS",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "cs201",
-      name: "Data Structures",
-      units: 4.0,
-      department: "CS",
-      prerequisites: ["cs101"],
-      offeredIn: ["winter", "spring"],
-    },
-    {
-      id: "cs301",
-      name: "Algorithms",
-      units: 4.0,
-      department: "CS",
-      prerequisites: ["cs201", "math201"],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "math101",
-      name: "Calculus I",
-      units: 4.0,
-      department: "MATH",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "math201",
-      name: "Linear Algebra",
-      units: 4.0,
-      department: "MATH",
-      prerequisites: ["math101"],
-      offeredIn: ["winter"],
-    },
-    {
-      id: "eng101",
-      name: "Composition",
-      units: 4.0,
-      department: "ENG",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "hist101",
-      name: "World History",
-      units: 4.0,
-      department: "HIST",
-      prerequisites: [],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "phys101",
-      name: "Physics I",
-      units: 4.0,
-      department: "PHYS",
-      prerequisites: ["math101"],
-      offeredIn: ["fall", "winter"],
-    },
-    {
-      id: "chem101",
-      name: "Chemistry I",
-      units: 4.0,
-      department: "CHEM",
-      prerequisites: [],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "bio101",
-      name: "Biology I",
-      units: 4.0,
-      department: "BIO",
-      prerequisites: [],
-      offeredIn: ["winter", "spring"],
-    },
-    {
-      id: "ld-bdaas",
-      name: "LD BDAAS CORE",
-      units: 4.0,
-      department: "CORE",
-      prerequisites: [],
-      offeredIn: ["fall"],
-    },
-    {
-      id: "breadth-ge",
-      name: "Breadth GE",
-      units: 4.0,
-      department: "GE",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "dei",
-      name: "DEI",
-      units: 4.0,
-      department: "DEI",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "cce1",
-      name: "CCE 1",
-      units: 4.0,
-      department: "CCE",
-      prerequisites: [],
-      offeredIn: ["spring"],
-    },
-    {
-      id: "elective",
-      name: "Elective",
-      units: 4.0,
-      department: "ELEC",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-  ];
+  const [allCourses, setAllCourses] = useState([]);
+
+  useEffect(() => {
+    fetch("/courses_with_offerings.json")
+      .then((response) => response.json())
+      .then((data) => {
+        // Convert the JSON data to match the expected format
+        const formattedCourses = data.map((course) => ({
+          id: course.course_id, // Map `course_id` to `id`
+          name: course.course_name, // Map `course_name` to `name`
+          units: parseFloat(course.credits) || 4.0, // Convert `credits` to a number
+          department: course.course_id.split(" ")[0], // Extract department from course ID
+          prerequisites: course.prerequisites
+            ? course.prerequisites.split(", ")
+            : [], // Convert prerequisites into an array
+            offeredIn: course.offerings, // Handle empty `offerings`
+        }));
+
+        setAllCourses(formattedCourses);
+      })
+      .catch((error) => console.error("Error loading courses:", error));
+  }, []);
+
+
+
+// const FourYearCoursePlanner = () => {
+//   // Sample course data - in a real app this would come from an API
+//   const allCourses = [
+//     {
+//       id: "cs101",
+//       name: "Introduction to Computer Science",
+//       units: 4.0,
+//       department: "CS",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//     {
+//       id: "cs201",
+//       name: "Data Structures",
+//       units: 4.0,
+//       department: "CS",
+//       prerequisites: ["cs101"],
+//       offeredIn: ["winter", "spring"],
+//     },
+//     {
+//       id: "cs301",
+//       name: "Algorithms",
+//       units: 4.0,
+//       department: "CS",
+//       prerequisites: ["cs201", "math201"],
+//       offeredIn: ["fall", "spring"],
+//     },
+//     {
+//       id: "math101",
+//       name: "Calculus I",
+//       units: 4.0,
+//       department: "MATH",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//     {
+//       id: "math201",
+//       name: "Linear Algebra",
+//       units: 4.0,
+//       department: "MATH",
+//       prerequisites: ["math101"],
+//       offeredIn: ["winter"],
+//     },
+//     {
+//       id: "eng101",
+//       name: "Composition",
+//       units: 4.0,
+//       department: "ENG",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//     {
+//       id: "hist101",
+//       name: "World History",
+//       units: 4.0,
+//       department: "HIST",
+//       prerequisites: [],
+//       offeredIn: ["fall", "spring"],
+//     },
+//     {
+//       id: "phys101",
+//       name: "Physics I",
+//       units: 4.0,
+//       department: "PHYS",
+//       prerequisites: ["math101"],
+//       offeredIn: ["fall", "winter"],
+//     },
+//     {
+//       id: "chem101",
+//       name: "Chemistry I",
+//       units: 4.0,
+//       department: "CHEM",
+//       prerequisites: [],
+//       offeredIn: ["fall", "spring"],
+//     },
+//     {
+//       id: "bio101",
+//       name: "Biology I",
+//       units: 4.0,
+//       department: "BIO",
+//       prerequisites: [],
+//       offeredIn: ["winter", "spring"],
+//     },
+//     {
+//       id: "ld-bdaas",
+//       name: "LD BDAAS CORE",
+//       units: 4.0,
+//       department: "CORE",
+//       prerequisites: [],
+//       offeredIn: ["fall"],
+//     },
+//     {
+//       id: "breadth-ge",
+//       name: "Breadth GE",
+//       units: 4.0,
+//       department: "GE",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//     {
+//       id: "dei",
+//       name: "DEI",
+//       units: 4.0,
+//       department: "DEI",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//     {
+//       id: "cce1",
+//       name: "CCE 1",
+//       units: 4.0,
+//       department: "CCE",
+//       prerequisites: [],
+//       offeredIn: ["spring"],
+//     },
+//     {
+//       id: "elective",
+//       name: "Elective",
+//       units: 4.0,
+//       department: "ELEC",
+//       prerequisites: [],
+//       offeredIn: ["fall", "winter", "spring"],
+//     },
+//   ];
 
   // Initialize 4 years, each with 3 terms (Fall, Winter, Spring), with variable course slots
   const initialSchedule = Array(4)
@@ -918,13 +966,19 @@ const FourYearCoursePlanner = () => {
                 </span>
                 <span className="ml-2 text-green-600">
                   Offered:
-                  {course.offeredIn.includes("fall") && (
-                    <span className="ml-1 mr-1">F</span>
+                  {course.offeredIn && course.offeredIn.length > 0 ? (
+                   <>
+                    {course.offeredIn.includes("fall") && (
+                      <span className="ml-1 mr-1">F</span>
+                    )}
+                    {course.offeredIn.includes("winter") && (
+                      <span className="mr-1">W</span>
+                    )}
+                    {course.offeredIn.includes("spring") && <span>S</span>}
+                   </>
+                  ) : (
+                    <span className="ml-1">No Historic Offerings</span>
                   )}
-                  {course.offeredIn.includes("winter") && (
-                    <span className="mr-1">W</span>
-                  )}
-                  {course.offeredIn.includes("spring") && <span>S</span>}
                 </span>
               </div>
             </div>
