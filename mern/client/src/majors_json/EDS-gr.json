@@ -1,0 +1,187 @@
+{
+  "EDS 201": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 203": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 204": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 205A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 205B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 206": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 250": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 251": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 252": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 253": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 254": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 255": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 256": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 264": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 265": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 266": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 290": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 299": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 125": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 352A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 352B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 352C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 371": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 372": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 373": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 374": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 375": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 376": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 379A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 379B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 379C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 380A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 380B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 380C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 381": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 382": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 190": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "PAE 461": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 462": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 463": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 471": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 472": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 473": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 481": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 482": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 483": {
+    "division": "upper",
+    "sub_category": "clinical",
+    "requirement_type": ["major"]
+  },
+  "PAE 489": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  }
+}

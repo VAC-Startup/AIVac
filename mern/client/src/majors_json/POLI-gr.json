@@ -1,0 +1,162 @@
+{
+  "POLI 203A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 203B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 204A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 204B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 251": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 252": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 257": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 220A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 220B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 240": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 270": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 271": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 273": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 260": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "POLI 263": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "POLI 276": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "POLI 277": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "POLI 279": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "POLI 210": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 211": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 212": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 213": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 214": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 215": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 216": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 217": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 218": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "POLI 219": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "CSS 209": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIO 295S": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 295LS": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 296": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

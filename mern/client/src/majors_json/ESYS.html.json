@@ -1,0 +1,332 @@
+{
+  "BILD 1": {
+    "division": "lower",
+    "sub_category": "biology",
+    "requirement_type": ["major", "minor"]
+  },
+  "BILD 3": {
+    "division": "lower",
+    "sub_category": "biology",
+    "requirement_type": ["major", "minor"]
+  },
+  "CHEM 6A": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major", "minor"]
+  },
+  "CHEM 6B": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major", "minor"]
+  },
+  "CHEM 6C": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1A": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1AL": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1B": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1BL": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1C": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 1CL": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 2A": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2B": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2C": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "MATH 10A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 10B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20D": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "SIO 50": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major"]
+  },
+  "ECON 1": {
+    "division": "lower",
+    "sub_category": "economics",
+    "requirement_type": ["major", "minor"]
+  },
+  "ECON 131": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 160AA": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ESYS 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ESYS 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ESYS 103": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIO 102": {
+    "division": "upper",
+    "sub_category": "geochemistry",
+    "requirement_type": ["major"]
+  },
+  "ESYS 187A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ESYS 187B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ESYS 187C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIO 100": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 103": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 104": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 105": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 106": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 110": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 120": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 135": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 144/252A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 150": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 152": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 160": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 162": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 101": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 109": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 111": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 113": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 115": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 117": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 119": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 138": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 141/CHEM 174": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 143": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 164/ANTH 164": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 166/ANTH 166": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 170": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 171": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 172": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 182": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "CHEM 171": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 172": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 173": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "BICD 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 183": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  }
+}

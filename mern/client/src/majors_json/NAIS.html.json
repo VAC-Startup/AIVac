@@ -1,0 +1,97 @@
+{
+  "ETHN 1": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 31": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 110": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 111": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 112A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 112B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 112C": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 113": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 114A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 114B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 160": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 162": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 163E": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 163F": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 163G": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "LIGN 152": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "PHYS 192": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 102": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 102": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  }
+}

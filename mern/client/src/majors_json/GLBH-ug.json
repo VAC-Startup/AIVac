@@ -1,0 +1,122 @@
+{
+  "GLBH 20": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HILD 30": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 30": {
+    "division": "lower",
+    "sub_category": "social science",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 40": {
+    "division": "lower",
+    "sub_category": "social science",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 70": {
+    "division": "lower",
+    "sub_category": "social science",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHIL 26": {
+    "division": "lower",
+    "sub_category": "philosophy",
+    "requirement_type": ["major", "minor"]
+  },
+  "PSYC 60": {
+    "division": "lower",
+    "sub_category": "statistics",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 30": {
+    "division": "lower",
+    "sub_category": "political science",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 11/11L": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "COGS 14B": {
+    "division": "lower",
+    "sub_category": "statistics",
+    "requirement_type": ["major", "minor"]
+  },
+  "GLBH 148": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "GLBH 181": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "MGT 173": {
+    "division": "upper",
+    "sub_category": "management",
+    "requirement_type": ["major", "minor"]
+  },
+  "GLBH 160": {
+    "division": "upper",
+    "sub_category": "policy analysis",
+    "requirement_type": ["major"]
+  },
+  "POLI 160AA": {
+    "division": "upper",
+    "sub_category": "policy analysis",
+    "requirement_type": ["major"]
+  },
+  "POLI 170A": {
+    "division": "upper",
+    "sub_category": "statistics",
+    "requirement_type": ["major"]
+  },
+  "USP 147": {
+    "division": "upper",
+    "sub_category": "case studies",
+    "requirement_type": ["major"]
+  },
+  "HISC 180": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "ECON 130": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "ENVR 110": {
+    "division": "upper",
+    "sub_category": "law",
+    "requirement_type": ["major"]
+  },
+  "USP 133": {
+    "division": "upper",
+    "sub_category": "social science",
+    "requirement_type": ["major"]
+  },
+  "USP 171": {
+    "division": "upper",
+    "sub_category": "sustainable development",
+    "requirement_type": ["major"]
+  },
+  "GLBH 150A": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "GLBH 150B": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  }
+}

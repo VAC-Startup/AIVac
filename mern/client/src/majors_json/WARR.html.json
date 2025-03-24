@@ -1,0 +1,32 @@
+{
+  "WCWP 10A": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "WCWP 10B": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "PHIL 27": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 27": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHIL 28": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 28": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

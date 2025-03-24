@@ -1,0 +1,647 @@
+{
+  "MATH 270A": {
+    "division": "upper",
+    "sub_category": "numerical analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 270B": {
+    "division": "upper",
+    "sub_category": "numerical analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 270C": {
+    "division": "upper",
+    "sub_category": "numerical analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 271A": {
+    "division": "upper",
+    "sub_category": "numerical optimization",
+    "requirement_type": ["major"]
+  },
+  "MATH 271B": {
+    "division": "upper",
+    "sub_category": "numerical optimization",
+    "requirement_type": ["major"]
+  },
+  "MATH 271C": {
+    "division": "upper",
+    "sub_category": "numerical optimization",
+    "requirement_type": ["major"]
+  },
+  "MATH 272A": {
+    "division": "upper",
+    "sub_category": "numerical partial differential equations",
+    "requirement_type": ["major"]
+  },
+  "MATH 272B": {
+    "division": "upper",
+    "sub_category": "numerical partial differential equations",
+    "requirement_type": ["major"]
+  },
+  "MATH 272C": {
+    "division": "upper",
+    "sub_category": "numerical partial differential equations",
+    "requirement_type": ["major"]
+  },
+  "MATH 274": {
+    "division": "upper",
+    "sub_category": "numerical methods",
+    "requirement_type": ["major"]
+  },
+  "MATH 275": {
+    "division": "upper",
+    "sub_category": "numerical PDE",
+    "requirement_type": ["major"]
+  },
+  "PHYS 244": {
+    "division": "upper",
+    "sub_category": "parallel computing",
+    "requirement_type": ["major"]
+  },
+  "MATH 202A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 210A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 210B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 210C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 212A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 212B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 214": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 231A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 231B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 231C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 245A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 245B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 245C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 261A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 261B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 261C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 273A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 273B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 273C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 276": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 280A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 281A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 281B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 282A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 282B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 283": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 284": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 285": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 286": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 287A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 287B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 287C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 287D": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 289C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MATH 294": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BGGN 260": {
+    "division": "upper",
+    "sub_category": "biology",
+    "requirement_type": ["major"]
+  },
+  "COGS 225": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 283": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 285": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 286": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CSE 202": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 210": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 224": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 232": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 250A": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 250B": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 250C": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 252A": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 252B": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 253": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 254": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 255": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 258": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 276A": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 276B": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 276C": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 276D": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 276E": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 280A": {
+    "division": "upper",
+    "sub_category": "computer science and engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 225A": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 225B": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 227": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 228": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 251A": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 251B": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 251C": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 271A": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 271B": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 271C": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 272A": {
+    "division": "upper",
+    "sub_category": "electrical and computer engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 209": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 210A": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 210B": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 210C": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 232A": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 232B": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 232C": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 260": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 261": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 280A": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 294A": {
+    "division": "upper",
+    "sub_category": "mechanical and aerospace engineering",
+    "requirement_type": ["major"]
+  },
+  "PHYS 203A": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 203B": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 216": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 221A": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 225A": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 225B": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 241": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 242": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 243": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "SE 233": {
+    "division": "upper",
+    "sub_category": "structural engineering",
+    "requirement_type": ["major"]
+  },
+  "SE 276A": {
+    "division": "upper",
+    "sub_category": "structural engineering",
+    "requirement_type": ["major"]
+  },
+  "SE 276B": {
+    "division": "upper",
+    "sub_category": "structural engineering",
+    "requirement_type": ["major"]
+  },
+  "SE 279": {
+    "division": "upper",
+    "sub_category": "structural engineering",
+    "requirement_type": ["major"]
+  },
+  "MATH 299": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "CSE 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "ECE 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MAE 296": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MAE 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PHYS 297": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PHYS 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "COGS 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MATH 218": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "MATH 278A": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "MATH 278B": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "MATH 278C": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "MATH 288": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "CSE 259": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "ECE 294": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "ECE 295": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "ECE 296": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "ECE 297": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "PHYS 250": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "PHYS 251": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "PHYS 252": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "PHYS 253": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "PHYS 254": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  }
+}

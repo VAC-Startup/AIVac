@@ -1,0 +1,87 @@
+{
+  "MATH 200A": {
+    "division": "upper",
+    "sub_category": "algebra",
+    "requirement_type": ["major"]
+  },
+  "MATH 202A-B-C": {
+    "division": "upper",
+    "sub_category": "applied algebra",
+    "requirement_type": ["major"]
+  },
+  "MATH 210A-B-C": {
+    "division": "upper",
+    "sub_category": "mathematical methods",
+    "requirement_type": ["major"]
+  },
+  "MATH 220A-B-C": {
+    "division": "upper",
+    "sub_category": "complex analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 240A-B-C": {
+    "division": "upper",
+    "sub_category": "real analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 261A-B-C": {
+    "division": "upper",
+    "sub_category": "probabilistic combinatorics",
+    "requirement_type": ["major"]
+  },
+  "MATH 270A-B-C": {
+    "division": "upper",
+    "sub_category": "numerical mathematics",
+    "requirement_type": ["major"]
+  },
+  "MATH 271A-B-C": {
+    "division": "upper",
+    "sub_category": "numerical optimization",
+    "requirement_type": ["major"]
+  },
+  "MATH 280A-B-C": {
+    "division": "upper",
+    "sub_category": "probability theory",
+    "requirement_type": ["major"]
+  },
+  "MATH 281A-B-C": {
+    "division": "upper",
+    "sub_category": "mathematical statistics",
+    "requirement_type": ["major"]
+  },
+  "MATH 282A-B": {
+    "division": "upper",
+    "sub_category": "applied statistics",
+    "requirement_type": ["major"]
+  },
+  "MATH 287A": {
+    "division": "upper",
+    "sub_category": "time series analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 287B": {
+    "division": "upper",
+    "sub_category": "multivariate analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 287C": {
+    "division": "upper",
+    "sub_category": "advanced time series analysis",
+    "requirement_type": ["major"]
+  },
+  "MATH 287D": {
+    "division": "upper",
+    "sub_category": "statistical learning",
+    "requirement_type": ["major"]
+  },
+  "MATH 295": {
+    "division": "upper",
+    "sub_category": "special topics",
+    "requirement_type": ["major"]
+  },
+  "MATH 297": {
+    "division": "upper",
+    "sub_category": "graduate research internship",
+    "requirement_type": ["major"]
+  }
+}

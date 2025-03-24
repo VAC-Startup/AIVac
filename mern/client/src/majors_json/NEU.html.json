@@ -1,0 +1,87 @@
+{
+  "NEU 200A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 200B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 200C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 225": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 241": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 257": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 276": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "NEU 280": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BENG 234": {
+    "division": "upper",
+    "sub_category": "specialization",
+    "requirement_type": ["major"]
+  },
+  "BGGN 260": {
+    "division": "upper",
+    "sub_category": "specialization",
+    "requirement_type": ["major"]
+  },
+  "COGS 260": {
+    "division": "upper",
+    "sub_category": "specialization",
+    "requirement_type": ["major"]
+  },
+  "PHYS 278": {
+    "division": "upper",
+    "sub_category": "specialization",
+    "requirement_type": ["major"]
+  },
+  "NEU 221": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "NEU 231": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "NEU 265": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "NEU 270A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "NEU 270B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "MATH 283": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BENG 202/CSE 282": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BENG 203/CSE 283": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CSE 280A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "CSE 284": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ECE 208": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "BNFO 286/MED 283": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "BNFO 281": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BNFO 283": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BNFO 294": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BNFO 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "BNFO 299": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "BNFO 500": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MED 264": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MED 262": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 254": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PHYS 255": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PHYS 256": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PHYS 270A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PHYS 270B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

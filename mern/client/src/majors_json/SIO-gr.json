@@ -1,0 +1,142 @@
+{
+  "SIOC 202A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOC 202B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOC 210": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 240": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 260": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOB 280": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOC 203A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 203B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 211A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 212A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 214A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 221A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOC 221B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOG 223A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 223B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 225": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 227A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 229": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 230": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 234": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 236": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOG 239": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIO 105": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIO 110": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIO 160": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SIOC 201": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOG 251": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SIOG 252A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

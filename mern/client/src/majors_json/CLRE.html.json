@@ -1,0 +1,212 @@
+{
+  "CLRE 251": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 257": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 250": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 256": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 259": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 253": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 254": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 252": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 255": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 236": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 236R": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 270": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 232": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 238": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 238R": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 239": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 237": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 240": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 243": {
+    "division": "upper",
+    "sub_category": "experiential",
+    "requirement_type": ["major"]
+  },
+  "CLRE 295A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 295B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 258": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLRE 263": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "CLRE 264": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "CLRE 265": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "MED 263": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "MED 264": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "MED 268": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "CLRE 267": {
+    "division": "upper",
+    "sub_category": "advanced statistics",
+    "requirement_type": ["major"]
+  },
+  "CLRE 234": {
+    "division": "upper",
+    "sub_category": "data analysis",
+    "requirement_type": ["major"]
+  },
+  "CLRE 242": {
+    "division": "upper",
+    "sub_category": "data analysis",
+    "requirement_type": ["major"]
+  },
+  "CLRE 260": {
+    "division": "upper",
+    "sub_category": "electives",
+    "requirement_type": ["major"]
+  },
+  "MED 224": {
+    "division": "upper",
+    "sub_category": "electives",
+    "requirement_type": ["major"]
+  },
+  "CLRE 230": {
+    "division": "upper",
+    "sub_category": "leadership",
+    "requirement_type": ["major"]
+  },
+  "CLRE 231": {
+    "division": "upper",
+    "sub_category": "leadership",
+    "requirement_type": ["major"]
+  },
+  "CLRE 233": {
+    "division": "upper",
+    "sub_category": "regulatory",
+    "requirement_type": ["major"]
+  },
+  "CLRE 235": {
+    "division": "upper",
+    "sub_category": "team science",
+    "requirement_type": ["major"]
+  },
+  "CLRE 266": {
+    "division": "upper",
+    "sub_category": "leadership",
+    "requirement_type": ["major"]
+  },
+  "CLRE 268": {
+    "division": "upper",
+    "sub_category": "leadership",
+    "requirement_type": ["major"]
+  },
+  "CLRE 299": {
+    "division": "upper",
+    "sub_category": "curricular practical training",
+    "requirement_type": ["major"]
+  },
+  "FPM 246": {
+    "division": "upper",
+    "sub_category": "leadership",
+    "requirement_type": ["major"]
+  },
+  "FPM 270": {
+    "division": "upper",
+    "sub_category": "global health",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "PHYS 130B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 124": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 133": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 140A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 152A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 152B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 295": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PHYS 200A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 201": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 203A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 203B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 210A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 212A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 212B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 218A": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 218B": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 218C": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 244": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 241": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 242": {
+    "division": "upper",
+    "sub_category": "advanced",
+    "requirement_type": ["major"]
+  },
+  "PHYS 261": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "BGGN 260": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHYS 278": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "COGS 260": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "ENVR 30": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 110": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "BILD 3": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 121": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 131": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 140": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 165": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 166": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "BIEB 176": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "CHEM 15": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "CHEM 171": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "CHEM 172": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "CHEM 173": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 102": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 101": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 105": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 120": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ESYS 101": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ESYS 103": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ESYS 120": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "MAE 118A": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "PHYS 12": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 10": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 12": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 15": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 16": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 20": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 30": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 35": {
+    "division": "lower",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 110": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 132": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "SIO 134": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "STPA 35": {
+    "division": "upper",
+    "sub_category": "natural sciences",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 108": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 182": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ANBI 132": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 160": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "COMM 171": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ECON 131": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ECON 132": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ECON 145": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 140": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ENVR 142GS": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 103": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 154": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "GPS 458": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "GPS 459": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "PHIL 148": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "PHIL 164": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "POLI 104E": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "POLI 125A": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "POLI 162": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 149": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "USP 2": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "USP 124": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "USP 144": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "USP 171": {
+    "division": "upper",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  }
+}

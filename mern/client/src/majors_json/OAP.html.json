@@ -1,0 +1,17 @@
+{
+  "Opportunities Abroad Program": {
+    "division": "lower",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "Education Abroad Program (EAP)": {
+    "division": "lower",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "Global Seminars (GS)": {
+    "division": "lower",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  }
+}

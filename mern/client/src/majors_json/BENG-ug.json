@@ -1,0 +1,282 @@
+{
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20D": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 18": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6A": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6B": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "BILD 1": {
+    "division": "lower",
+    "sub_category": "biology",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2A": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2B": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "BENG 1": {
+    "division": "lower",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 100": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 110": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 120": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 130": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 140A": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 140B": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 125": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 186A": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 187A": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 187B": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 187C": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 187D": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 162": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "CSE 11": {
+    "division": "lower",
+    "sub_category": "computer science",
+    "requirement_type": ["major"]
+  },
+  "CSE 12": {
+    "division": "lower",
+    "sub_category": "computer science",
+    "requirement_type": ["major"]
+  },
+  "CSE 21": {
+    "division": "upper",
+    "sub_category": "computer science",
+    "requirement_type": ["major"]
+  },
+  "CSE 100": {
+    "division": "upper",
+    "sub_category": "computer science",
+    "requirement_type": ["major"]
+  },
+  "BIMM 100": {
+    "division": "upper",
+    "sub_category": "biomedical",
+    "requirement_type": ["major"]
+  },
+  "BIMM 185": {
+    "division": "upper",
+    "sub_category": "biomedical",
+    "requirement_type": ["major"]
+  },
+  "MATH 186": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MAE 3": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 8": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 140": {
+    "division": "upper",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 150": {
+    "division": "upper",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "MAE 170": {
+    "division": "upper",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "CENG 101A": {
+    "division": "upper",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 102": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 123": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 134": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 135": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 141": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 152": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 160": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 168": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 161A": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BENG 161B": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  },
+  "BICD 100": {
+    "division": "upper",
+    "sub_category": "biology",
+    "requirement_type": ["major"]
+  },
+  "BILD 3": {
+    "division": "lower",
+    "sub_category": "biology",
+    "requirement_type": ["major"]
+  },
+  "BILD 4": {
+    "division": "lower",
+    "sub_category": "biology",
+    "requirement_type": ["major"]
+  },
+  "CHEM 40A": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 40B": {
+    "division": "upper",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "CHEM 7L": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2C": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2C/2CL": {
+    "division": "upper",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "BENG 189": {
+    "division": "upper",
+    "sub_category": "bioengineering",
+    "requirement_type": ["major"]
+  }
+}

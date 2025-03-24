@@ -1,0 +1,32 @@
+{
+  "MMW 11": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MMW 12": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MMW 13": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MMW 15": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MMW 121": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MMW 122": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

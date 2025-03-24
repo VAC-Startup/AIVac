@@ -1,0 +1,132 @@
+{
+  "INTL 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "INTL 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "INTL 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "INTL 190": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "INTL 190H": {
+    "division": "upper",
+    "sub_category": "honors",
+    "requirement_type": ["major"]
+  },
+  "INTL 196H": {
+    "division": "upper",
+    "sub_category": "honors thesis",
+    "requirement_type": ["major"]
+  },
+  "ANTH 101": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANTH 102": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANTH 103": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ECON 100A": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "ECON 100B": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "ECON 100C": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "ECON 116": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "HIGL 114": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIGA 127": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "MATH 10A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 10B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 10C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "PHIL 10": {
+    "division": "lower",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "POLI 120A": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 140A": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "SOCI 106M": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 121": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 125": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 136E": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 189": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  }
+}

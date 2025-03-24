@@ -1,0 +1,17 @@
+{
+  "TDGR 290": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "TDGR 291": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "TDGR 292": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

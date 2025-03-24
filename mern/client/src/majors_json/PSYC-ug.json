@@ -1,0 +1,437 @@
+{
+  "PSYC 2": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 1": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 2": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 3": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 10": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 12": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 20": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "BILD 26": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 4": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6A": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6B": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6C": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 11": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 12": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "CHEM 13": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "COGS 17": {
+    "division": "lower",
+    "sub_category": "formal skills",
+    "requirement_type": ["major"]
+  },
+  "PHYS 1A": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PHYS 1B": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PHYS 1C": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2A": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2B": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2C": {
+    "division": "lower",
+    "sub_category": "natural science",
+    "requirement_type": ["major"]
+  },
+  "PSYC 60": {
+    "division": "lower",
+    "sub_category": "statistics",
+    "requirement_type": ["major"]
+  },
+  "MATH 10A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 10B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "PSYC 70": {
+    "division": "lower",
+    "sub_category": "formal skills",
+    "requirement_type": ["major"]
+  },
+  "COGS 18": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 3": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 5A": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 7": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 8A": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 8B": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 11": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 12": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "ECE 15": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "MAE 5": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "MAE 8": {
+    "division": "lower",
+    "sub_category": "computer programming",
+    "requirement_type": ["major"]
+  },
+  "BENG 100": {
+    "division": "upper",
+    "sub_category": "statistics",
+    "requirement_type": ["major"]
+  },
+  "BIEB 100": {
+    "division": "upper",
+    "sub_category": "statistics",
+    "requirement_type": ["major"]
+  },
+  "COGS 14B": {
+    "division": "upper",
+    "sub_category": "statistics",
+    "requirement_type": ["major"]
+  },
+  "ECON 120A": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "MATH 11": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 181A": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 183": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 186": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "PSYC 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 104": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 105": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 106": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 108": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PSYC 114": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 115A": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 115B": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 116": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 117": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 121": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 140": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 193L": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 194A": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 194B": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 194C": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "PSYC 199": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "PSYC 120": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 129": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 130": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 137": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 143": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 147": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 148": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 151": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 152": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 153": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 154": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 157": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 158": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 161": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 162": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 173": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 176": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 178": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 184": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 187": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PSYC 194A-B-C": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "HMNR 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "HMNR 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "POLI 140D": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "POLI 150A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 125": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "USP 162": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 21": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 23": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 131": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 140": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 144": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 151": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 153": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 155": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 158": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 176": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 185": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 186": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 196": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "CGS 106": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 108D": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 111B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 114A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "COMM 114B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 114F": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 131": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 158": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 163": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 166": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 183": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 103": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 109": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 152": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "HITO 119": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "HITO 134": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 136": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "LATI 10": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "LAWS 101": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "LTCS 125": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "PHIL 167": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "PHIL 168": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 104I": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 104M": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 104B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 104C": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 111B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 122": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 122D": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 131": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 135": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 140A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 127": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 140F": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 174": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 175": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 177": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "USP 163": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "USP 188": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 138": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 173": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 101A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 101E": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "COMM 102C": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 190": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 160AA": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 160AB": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 168": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 170A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "POLI 171": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 104": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 109M": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 110": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 188": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  }
+}

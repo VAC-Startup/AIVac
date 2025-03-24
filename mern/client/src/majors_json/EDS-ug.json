@@ -1,0 +1,337 @@
+{
+  "MATH 95": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "EDS 31": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 38": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 39": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "EDS 40": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCI 60": {
+    "division": "lower",
+    "sub_category": "social science",
+    "requirement_type": ["major"]
+  },
+  "HDS 1": {
+    "division": "lower",
+    "sub_category": "human development",
+    "requirement_type": ["major"]
+  },
+  "EDS 112": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 113": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 117": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 125": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 126": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "EDS 155": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCI 152": {
+    "division": "upper",
+    "sub_category": "social science",
+    "requirement_type": ["major"]
+  },
+  "EDS 114": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "EDS 115": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "EDS 118": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "EDS 119": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "EDS 162": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "HDS 120": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "HDS 122": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "HDS 133": {
+    "division": "upper",
+    "sub_category": "learning and development",
+    "requirement_type": ["major"]
+  },
+  "EDS 130": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 131": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 133": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 135": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 136": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 137": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 145": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 146": {
+    "division": "upper",
+    "sub_category": "introduction to learning contexts",
+    "requirement_type": ["major"]
+  },
+  "EDS 102": {
+    "division": "upper",
+    "sub_category": "qualitative research",
+    "requirement_type": ["major"]
+  },
+  "SOCI 110": {
+    "division": "upper",
+    "sub_category": "qualitative research",
+    "requirement_type": ["major"]
+  },
+  "EDS 103": {
+    "division": "upper",
+    "sub_category": "quantitative research",
+    "requirement_type": ["major"]
+  },
+  "SOCI 109": {
+    "division": "upper",
+    "sub_category": "quantitative research",
+    "requirement_type": ["major"]
+  },
+  "EDS 140": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 141": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 128A": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 128B": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 129A": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 129B": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 129C": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "EDS 111": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 122": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 123": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 124AR": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 124BR": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 127": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 164R": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ECON 147": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "USP 104": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "USP 116": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SOCI 127": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SOCI 139": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 120": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ETHN 100A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ETHN 100B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SOCI 102": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SOCI 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "SOCI 122": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "USP 125": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 108GS": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 110R": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 116": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ETHN 144": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "COMM 168": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "COMM 169": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "EDS 180": {
+    "division": "upper",
+    "sub_category": "senior seminar",
+    "requirement_type": ["major"]
+  }
+}

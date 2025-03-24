@@ -1,0 +1,7 @@
+{
+  "REV 20": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

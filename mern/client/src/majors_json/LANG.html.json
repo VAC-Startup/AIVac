@@ -1,0 +1,182 @@
+{
+  "PSYC 201A-B": {
+    "division": "upper",
+    "sub_category": "research design",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 201": {
+    "division": "upper",
+    "sub_category": "neuroscience",
+    "requirement_type": ["major"]
+  },
+  "SLHS 790": {
+    "division": "upper",
+    "sub_category": "language science",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 241": {
+    "division": "upper",
+    "sub_category": "ethics",
+    "requirement_type": ["major"]
+  },
+  "PSYC 213": {
+    "division": "upper",
+    "sub_category": "survival skills",
+    "requirement_type": ["major"]
+  },
+  "SLHS 793": {
+    "division": "upper",
+    "sub_category": "language disorders",
+    "requirement_type": ["major"]
+  },
+  "SLHS 609A": {
+    "division": "upper",
+    "sub_category": "language disorders",
+    "requirement_type": ["major"]
+  },
+  "SLHS 794": {
+    "division": "upper",
+    "sub_category": "language disorders",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 200": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 202": {
+    "division": "upper",
+    "sub_category": "computational modeling",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 211A-B-C": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 260": {
+    "division": "upper",
+    "sub_category": "special topics",
+    "requirement_type": ["major"]
+  },
+  "Cognitive Science 272": {
+    "division": "upper",
+    "sub_category": "neurobiology",
+    "requirement_type": ["major"]
+  },
+  "COGR 200A": {
+    "division": "upper",
+    "sub_category": "social force",
+    "requirement_type": ["major"]
+  },
+  "COGR 200B": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["major"]
+  },
+  "COGR 200C": {
+    "division": "upper",
+    "sub_category": "individual",
+    "requirement_type": ["major"]
+  },
+  "COGR 201B": {
+    "division": "upper",
+    "sub_category": "ethnographic methods",
+    "requirement_type": ["major"]
+  },
+  "COGR 201C": {
+    "division": "upper",
+    "sub_category": "discourse analysis",
+    "requirement_type": ["major"]
+  },
+  "LIGN 211A": {
+    "division": "upper",
+    "sub_category": "phonology",
+    "requirement_type": ["major"]
+  },
+  "LIGN 221A": {
+    "division": "upper",
+    "sub_category": "grammatical theory",
+    "requirement_type": ["major"]
+  },
+  "LIGN 225": {
+    "division": "upper",
+    "sub_category": "syntax",
+    "requirement_type": ["major"]
+  },
+  "LIGN 270": {
+    "division": "upper",
+    "sub_category": "psycholinguistics",
+    "requirement_type": ["major"]
+  },
+  "LIGN 272": {
+    "division": "upper",
+    "sub_category": "neurolinguistics",
+    "requirement_type": ["major"]
+  },
+  "LIGN 278": {
+    "division": "upper",
+    "sub_category": "second language acquisition",
+    "requirement_type": ["major"]
+  },
+  "PSYC 218A-B": {
+    "division": "upper",
+    "sub_category": "cognitive psychology",
+    "requirement_type": ["major"]
+  },
+  "PSYC 222": {
+    "division": "upper",
+    "sub_category": "biological psychology",
+    "requirement_type": ["major"]
+  },
+  "PSYC 236": {
+    "division": "upper",
+    "sub_category": "substance abuse",
+    "requirement_type": ["major"]
+  },
+  "PSYC 244": {
+    "division": "upper",
+    "sub_category": "psycholinguistics",
+    "requirement_type": ["major"]
+  },
+  "PSYC 252": {
+    "division": "upper",
+    "sub_category": "cognitive neuroscience",
+    "requirement_type": ["major"]
+  },
+  "CSE 250A-B": {
+    "division": "upper",
+    "sub_category": "artificial intelligence",
+    "requirement_type": ["major"]
+  },
+  "CSE 253": {
+    "division": "upper",
+    "sub_category": "neural networks",
+    "requirement_type": ["major"]
+  },
+  "CSE 256": {
+    "division": "upper",
+    "sub_category": "statistical NLP",
+    "requirement_type": ["major"]
+  },
+  "CSE 258A": {
+    "division": "upper",
+    "sub_category": "cognitive modeling",
+    "requirement_type": ["major"]
+  },
+  "NEU 243": {
+    "division": "upper",
+    "sub_category": "human information",
+    "requirement_type": ["major"]
+  },
+  "NEU 263": {
+    "division": "upper",
+    "sub_category": "developmental neuroscience",
+    "requirement_type": ["major"]
+  },
+  "Philosophy 234": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  }
+}

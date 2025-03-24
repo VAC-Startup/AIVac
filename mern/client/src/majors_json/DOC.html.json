@@ -1,0 +1,22 @@
+{
+  "DOC 1": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DOC 2": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DOC 3": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DOC 100D": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  }
+}

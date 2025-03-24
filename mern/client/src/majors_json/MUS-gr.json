@@ -1,0 +1,152 @@
+{
+  "MUS 200": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 201": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 202": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 203A": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 203B": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 203C": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 203D": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 204": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MUS 205": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MUS 206": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "MUS 207": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "MUS 210": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "MUS 215A": {
+    "division": "upper",
+    "sub_category": "integrative studies",
+    "requirement_type": ["major"]
+  },
+  "MUS 215B": {
+    "division": "upper",
+    "sub_category": "integrative studies",
+    "requirement_type": ["major"]
+  },
+  "MUS 215C": {
+    "division": "upper",
+    "sub_category": "integrative studies",
+    "requirement_type": ["major"]
+  },
+  "MUS 215D": {
+    "division": "upper",
+    "sub_category": "integrative studies",
+    "requirement_type": ["major"]
+  },
+  "MUS 228": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 229": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 270A": {
+    "division": "upper",
+    "sub_category": "computer music",
+    "requirement_type": ["major"]
+  },
+  "MUS 270B": {
+    "division": "upper",
+    "sub_category": "computer music",
+    "requirement_type": ["major"]
+  },
+  "MUS 270C": {
+    "division": "upper",
+    "sub_category": "computer music",
+    "requirement_type": ["major"]
+  },
+  "MUS 270D": {
+    "division": "upper",
+    "sub_category": "computer music",
+    "requirement_type": ["major"]
+  },
+  "MUS 271A": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 271B": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 271C": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 272": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 291": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MUS 501": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MUS 299": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MUS 298": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  }
+}

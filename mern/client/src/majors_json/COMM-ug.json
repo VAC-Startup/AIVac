@@ -1,0 +1,157 @@
+{
+  "COMM 10": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 100A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 100B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 100C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 190": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "COMM 20": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "COMM 30": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "COMM 40": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "COMM 106": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "COMM 101": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 101A": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 101D": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 101K": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 101N": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 102B": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 102M": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 102C": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 114B": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 115J": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 120N": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 124A": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 124B": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 141": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106A": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106D": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106F": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106G": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106I": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106N": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106S": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  },
+  "COMM 106V": {
+    "division": "upper",
+    "sub_category": "practice",
+    "requirement_type": ["major"]
+  }
+}

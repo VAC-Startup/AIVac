@@ -1,0 +1,242 @@
+{
+  "GMST 196A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GMST 196B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 125": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 128": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 132": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 142": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 143": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 145": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 146": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 147": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 148": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 154": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HIEU 158": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LIGM 1A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LIGM 1B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LIGM 1C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LIGM 1D": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEU 130": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 2A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTGM 2B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTGM 2C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTGM 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 130": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 132": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 134": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTGM 190": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHIL 106": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHIL 107": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHIL 180": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHIL 181": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 110C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 114B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 120B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 120D": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 120H": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCI 178": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTEU 110": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEU 111": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 160": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 172": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 176": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 180": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 183": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "MUS 113": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHIL 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHIL 183": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "TDHT 101": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  }
+}

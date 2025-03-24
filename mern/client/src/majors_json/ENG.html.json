@@ -1,0 +1,47 @@
+{
+  "MATH 18": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20D": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 2A": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 2B": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major", "minor"]
+  },
+  "PHYS 2C": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major", "minor"]
+  },
+  "CHEM 6A": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major"]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "LATI 10": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 50": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HILA 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 188D": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 146A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 124": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 130": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 131": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 140": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 150": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 160": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 170": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 180": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "LATI 190": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LATI 191": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LATI 199": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ANAR 153": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANAR 154": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANSC 104": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ECON 162": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "HILA 131": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 134B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 125": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  }
+}

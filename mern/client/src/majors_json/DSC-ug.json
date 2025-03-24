@@ -1,0 +1,212 @@
+{
+  "COGS 9": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major", "minor"]
+  },
+  "DSC 10": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major", "minor"]
+  },
+  "DSC 20": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major", "minor"]
+  },
+  "DSC 30": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "DSC 40A": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "DSC 40B": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "DSC 80": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "MATH 18": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 31AH": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 20C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major", "minor"]
+  },
+  "MATH 31BH": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "ECON 1": {
+    "division": "lower",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "ECON 3": {
+    "division": "lower",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "COGS 14A": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "COGS 14B": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "BILD 1": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major"]
+  },
+  "BILD 3": {
+    "division": "lower",
+    "sub_category": "science",
+    "requirement_type": ["major"]
+  },
+  "POLI 5": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "POLI 5D": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "ECON 5": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "POLI 30": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "POLI 30D": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "SOCI 60": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "USP 4": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["major"]
+  },
+  "ECON 120A": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major"]
+  },
+  "MATH 183": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 181A": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 189": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "DSC 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 106": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 140A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CSE 150A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 140B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CSE 151A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 148": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CSE 158": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CSE 158R": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 180A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "DSC 180B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

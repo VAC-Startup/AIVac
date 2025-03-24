@@ -1,0 +1,157 @@
+{
+  "MGT 4": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "Econ 4": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 5": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 131A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 131B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 132": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 135": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 136": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 16": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 45": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 71": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 103": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 181": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 112": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 108R": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 151R": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 153": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 155": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "DSC 10": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "MGT 121A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 121B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 187": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 180": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 162": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 164": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 176": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MGT 183": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "MATH 193A": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["minor"]
+  },
+  "MATH 193B": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["minor"]
+  },
+  "MATH 194": {
+    "division": "upper",
+    "sub_category": "math",
+    "requirement_type": ["minor"]
+  }
+}

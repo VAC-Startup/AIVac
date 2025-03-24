@@ -1,0 +1,487 @@
+{
+  "ANTH 3": {
+    "division": "lower",
+    "sub_category": "anthropology",
+    "requirement_type": ["minor"]
+  },
+  "CLAS 87": {
+    "division": "lower",
+    "sub_category": "seminar",
+    "requirement_type": ["minor"]
+  },
+  "HILD 10": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 20R": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 40": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HUM 1": {
+    "division": "lower",
+    "sub_category": "humanities",
+    "requirement_type": ["minor"]
+  },
+  "HUM 2": {
+    "division": "lower",
+    "sub_category": "humanities",
+    "requirement_type": ["minor"]
+  },
+  "HUM 3": {
+    "division": "lower",
+    "sub_category": "humanities",
+    "requirement_type": ["minor"]
+  },
+  "LTGK 1": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTGK 2": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTGK 3": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTLA 1": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTLA 2": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTLA 3": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 19A-B-C": {
+    "division": "lower",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "MMW 11": {
+    "division": "lower",
+    "sub_category": "making of the modern world",
+    "requirement_type": ["minor"]
+  },
+  "MMW 12": {
+    "division": "lower",
+    "sub_category": "making of the modern world",
+    "requirement_type": ["minor"]
+  },
+  "MMW 13": {
+    "division": "lower",
+    "sub_category": "making of the modern world",
+    "requirement_type": ["minor"]
+  },
+  "PHIL 31": {
+    "division": "lower",
+    "sub_category": "philosophy",
+    "requirement_type": ["minor"]
+  },
+  "TDHT 21": {
+    "division": "lower",
+    "sub_category": "theatre",
+    "requirement_type": ["minor"]
+  },
+  "VIS 21A": {
+    "division": "lower",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  },
+  "VIS 21B": {
+    "division": "lower",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 135S": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 138": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 142": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 143": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 144": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 145S": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 153": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 154": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 155": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANAR 158": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "CLAS 109": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 110": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 119": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 120": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 121R": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 196A": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 196B": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 198": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "CLAS 199": {
+    "division": "upper",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "HIEU 102": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 103": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 104": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 106": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 108": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 122": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 123": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 160": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 161": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 199": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HINE 100": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HINE 113": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HINE 115": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HINE 125": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HINE 171": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "LTGK 101": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 102": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 103": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 104": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 105": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 198": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTGK 199": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 100": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 102": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 103": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 104": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 105": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 198": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTLA 199": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "LTWL 100": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 101": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 102": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 106": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 123": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 129": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 158A": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 158B": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 158C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTCS 180": {
+    "division": "upper",
+    "sub_category": "programming",
+    "requirement_type": ["major"]
+  },
+  "MMW 121": {
+    "division": "upper",
+    "sub_category": "making of the modern world",
+    "requirement_type": ["major"]
+  },
+  "PHIL 100": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 101": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 102": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 110": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 199": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "POLI 110A": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "VIS 120A": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 120B": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 120C": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "HIGR 260": {
+    "division": "graduate",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIGR 261": {
+    "division": "graduate",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "LTCO 210": {
+    "division": "graduate",
+    "sub_category": "classical studies",
+    "requirement_type": ["major"]
+  },
+  "PHIL 210": {
+    "division": "graduate",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 287": {
+    "division": "graduate",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 288": {
+    "division": "graduate",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 290": {
+    "division": "graduate",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  }
+}

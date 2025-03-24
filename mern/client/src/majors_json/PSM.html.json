@@ -1,0 +1,17 @@
+{
+  "TMC 15": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["minor"]
+  },
+  "Specialization Courses": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "Academic Internship": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["minor"]
+  }
+}

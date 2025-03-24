@@ -1,0 +1,22 @@
+{
+  "UCEAP": {
+    "division": "upper",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "Global Exchange": {
+    "division": "upper",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "Global Seminars": {
+    "division": "upper",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "Opportunities Abroad Program": {
+    "division": "upper",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  }
+}

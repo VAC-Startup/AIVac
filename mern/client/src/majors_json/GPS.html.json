@@ -1,0 +1,182 @@
+{
+  "GPCO 400": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 401": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 403": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 410": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 412": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 415": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 453": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 454": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "GPCO 462": {
+    "division": "upper",
+    "sub_category": "capstone",
+    "requirement_type": ["major"]
+  },
+  "GPIM 411": {
+    "division": "upper",
+    "sub_category": "specialization",
+    "requirement_type": ["major"]
+  },
+  "GPPS 404": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPPS 408": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPPS 416": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPEC 409": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPPS 479": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPEC 462": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPEC 388": {
+    "division": "upper",
+    "sub_category": "regional specialization",
+    "requirement_type": ["major"]
+  },
+  "GPEC 450": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 488": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 446": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 443": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 418": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 432": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 431": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPCO 468": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPA 466": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPA 470": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPIM 457": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPS 427": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPS 435": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPS 481": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEA 440": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPPS 431": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 440": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 456": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "GPEC 175": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

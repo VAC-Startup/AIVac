@@ -1,0 +1,117 @@
+{
+  "VIS 20": {
+    "division": "lower",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 21A": {
+    "division": "lower",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 21B": {
+    "division": "lower",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 21C": {
+    "division": "lower",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 22": {
+    "division": "lower",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 60": {
+    "division": "lower",
+    "sub_category": "digital photography",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 70N": {
+    "division": "lower",
+    "sub_category": "media",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 80": {
+    "division": "lower",
+    "sub_category": "studio",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 112": {
+    "division": "upper",
+    "sub_category": "theory and methods",
+    "requirement_type": ["major"]
+  },
+  "VIS 113AN": {
+    "division": "upper",
+    "sub_category": "art theory",
+    "requirement_type": ["major"]
+  },
+  "VIS 142": {
+    "division": "upper",
+    "sub_category": "computing arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 145A": {
+    "division": "upper",
+    "sub_category": "media",
+    "requirement_type": ["major"]
+  },
+  "VIS 159": {
+    "division": "upper",
+    "sub_category": "art history",
+    "requirement_type": ["major"]
+  },
+  "VIS 196": {
+    "division": "upper",
+    "sub_category": "honors study",
+    "requirement_type": ["major"]
+  },
+  "VIS 10": {
+    "division": "lower",
+    "sub_category": "computing in the arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 30": {
+    "division": "lower",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "VIS 135": {
+    "division": "upper",
+    "sub_category": "design research",
+    "requirement_type": ["major"]
+  },
+  "VIS 105A": {
+    "division": "upper",
+    "sub_category": "studio",
+    "requirement_type": ["major"]
+  },
+  "VIS 164": {
+    "division": "upper",
+    "sub_category": "media practice",
+    "requirement_type": ["major"]
+  },
+  "VIS 167": {
+    "division": "upper",
+    "sub_category": "social engagement",
+    "requirement_type": ["major"]
+  },
+  "VIS 168": {
+    "division": "upper",
+    "sub_category": "photography",
+    "requirement_type": ["major"]
+  },
+  "VIS 169A": {
+    "division": "upper",
+    "sub_category": "photography",
+    "requirement_type": ["major"]
+  },
+  "VIS 169B": {
+    "division": "upper",
+    "sub_category": "photography",
+    "requirement_type": ["major"]
+  }
+}

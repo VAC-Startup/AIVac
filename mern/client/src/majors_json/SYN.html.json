@@ -1,0 +1,52 @@
+{
+  "SYN 1": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "SYN 1R": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "SYN 2": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "SYN 2R": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "SYN 100": {
+    "division": "upper",
+    "sub_category": "project-based",
+    "requirement_type": ["major"]
+  },
+  "SYN 150": {
+    "division": "lower",
+    "sub_category": "summary",
+    "requirement_type": ["major"]
+  },
+  "SYN 150R": {
+    "division": "lower",
+    "sub_category": "summary",
+    "requirement_type": ["major"]
+  },
+  "SYN 198": {
+    "division": "upper",
+    "sub_category": "group study",
+    "requirement_type": ["major"]
+  },
+  "SYN 199": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "SYN 195": {
+    "division": "upper",
+    "sub_category": "instruction",
+    "requirement_type": ["major"]
+  }
+}

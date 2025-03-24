@@ -1,0 +1,237 @@
+{
+  "HIEA 150": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 151": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 152": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 153": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 154": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 180": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 140": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 141": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 142": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 143": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 144": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEA 145": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 140": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "VIS 103A": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  },
+  "VIS 103B": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 44": {
+    "division": "lower",
+    "sub_category": "anthropology",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 101A": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 1A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 1B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 1C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 2A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 2B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 2C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 130F": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 130W": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 130P": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 135": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "LTKO 149": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "ECON 169": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "GPPS 408": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "GPPS 484": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "GPEC 485": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "POLI 133J": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "LTCS 133": {
+    "division": "upper",
+    "sub_category": "cultural studies",
+    "requirement_type": ["minor"]
+  },
+  "HILD 10": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 11": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 12": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIEA 125": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 20": {
+    "division": "lower",
+    "sub_category": "asian american studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 122": {
+    "division": "upper",
+    "sub_category": "asian american studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 123": {
+    "division": "upper",
+    "sub_category": "asian american studies",
+    "requirement_type": ["minor"]
+  },
+  "HILD 7B": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 124": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 28": {
+    "division": "lower",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 181": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "CGS 122": {
+    "division": "upper",
+    "sub_category": "gender studies",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 133": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["minor"]
+  }
+}

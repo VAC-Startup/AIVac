@@ -1,0 +1,302 @@
+{
+  "ANTH 23": {
+    "division": "lower",
+    "sub_category": "social sciences",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 1": {
+    "division": "lower",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 2": {
+    "division": "lower",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 3": {
+    "division": "lower",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "HILD 7A": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 7B": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 7C": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "USP 3": {
+    "division": "lower",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 114": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 118": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "COMM 114": {
+    "division": "upper",
+    "sub_category": "communication",
+    "requirement_type": ["minor"]
+  },
+  "COMM 115": {
+    "division": "upper",
+    "sub_category": "communication",
+    "requirement_type": ["minor"]
+  },
+  "CGS 2A": {
+    "division": "upper",
+    "sub_category": "gender studies",
+    "requirement_type": ["minor"]
+  },
+  "ECON 135": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 1A": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 1B": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 1C": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 109": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 111": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 116": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 121": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 123": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 129": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 130": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 132": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 136": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 148": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 144": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 149": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 160": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 161": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 164": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 168": {
+    "division": "upper",
+    "sub_category": "ethnic studies",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 108": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 117": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 124": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 158": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 159": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 180": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 28": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTAM 108": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "MUS 13AM": {
+    "division": "upper",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "POLI 100H": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "POLI 100J": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "POLI 150A": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 114": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 151": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["minor"]
+  },
+  "TDHT 110": {
+    "division": "upper",
+    "sub_category": "theater",
+    "requirement_type": ["minor"]
+  },
+  "USP 105": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 107": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 109": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 113": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 115": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 136": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 165": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 166": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 171": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "USP 172": {
+    "division": "upper",
+    "sub_category": "urban studies",
+    "requirement_type": ["minor"]
+  },
+  "VIS 126CN": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  },
+  "VIS 126DN": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["minor"]
+  }
+}

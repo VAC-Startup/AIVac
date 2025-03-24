@@ -1,0 +1,47 @@
+{
+  "LTTH 210A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTTH 210B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTTH 210C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTXX 298": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "LTWR 215": {
+    "division": "upper",
+    "sub_category": "workshop",
+    "requirement_type": ["major"]
+  },
+  "LTTH 250": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTTH 255": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CGS 200": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CGS 299": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

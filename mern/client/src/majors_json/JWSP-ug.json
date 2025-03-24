@@ -1,0 +1,232 @@
+{
+  "JWSP 1": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "JWSP 2": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "JWSP 3": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "JWSP 101": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JWSP 102": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JWSP 103": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JWSP 104": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "ANAR 141": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "ANAR 142": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "ANAR 143": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "ANAR 190": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "ANAR 191": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 100": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 101": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 104": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 108": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 110": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 112 A": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 112 B": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 115": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 125": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 162": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 171": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 199": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTWL 138": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTWL 198": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTWL 199": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HIEU 145": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HIEU 158": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HIEU 176": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 135GS": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 136GS": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 166": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HINE 170": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HITO 105": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HITO 106": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HITO 136": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HIUS 118": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "HUM 1": {
+    "division": "lower",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTRU 110C": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTRU 150": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "LTWL 134": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "POLI 121": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "POLI 121B": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "SOCI 106M": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  },
+  "SOCI 188I": {
+    "division": "upper",
+    "sub_category": "survey",
+    "requirement_type": ["major"]
+  }
+}

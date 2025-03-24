@@ -1,0 +1,212 @@
+{
+  "USP 1": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 2": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 3": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 4": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "USP 5": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 6": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 30": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "USP 60": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "USP 124": {
+    "division": "upper",
+    "sub_category": "foundation",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 173": {
+    "division": "upper",
+    "sub_category": "foundation",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 100": {
+    "division": "upper",
+    "sub_category": "foundation",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 103": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 104": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 105": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 106": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 107": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 108": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 170": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 171": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 171GS": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 125": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 128A": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 141A": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 142B": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 160": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 163": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 188": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 193": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "USP 169": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 172": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 175": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 177A": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 183GS": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 191A": {
+    "division": "upper",
+    "sub_category": "technical elective",
+    "requirement_type": ["major"]
+  },
+  "USP 186": {
+    "division": "upper",
+    "sub_category": "senior sequence",
+    "requirement_type": ["major"]
+  },
+  "USP 187": {
+    "division": "upper",
+    "sub_category": "senior sequence",
+    "requirement_type": ["major"]
+  },
+  "USP 190": {
+    "division": "upper",
+    "sub_category": "honors",
+    "requirement_type": ["major"]
+  },
+  "USP 198": {
+    "division": "upper",
+    "sub_category": "special studies",
+    "requirement_type": ["major"]
+  },
+  "USP 199": {
+    "division": "upper",
+    "sub_category": "special studies",
+    "requirement_type": ["major"]
+  },
+  "VIS 101A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "VIS 103": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "VIS 103B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  }
+}

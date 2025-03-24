@@ -1,0 +1,142 @@
+{
+  "HDS 1": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HDS 60": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 181": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "HDS 191": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "HDS 150": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 110": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 111": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 120": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 121": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "HDS 122": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HDS 133": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HDS 171": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "HDS 173": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "HDS 175": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANBI 111": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "BIPN 144": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "COMM 102C": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major", "minor"]
+  },
+  "EDS 130": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "EDS 131": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "ANSC 101": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "BILD 38": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTWL 177": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "USP 145": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANBI 116": {
+    "division": "upper",
+    "sub_category": "development",
+    "requirement_type": ["major"]
+  },
+  "HDS 193": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "HDS 194A": {
+    "division": "upper",
+    "sub_category": "honors",
+    "requirement_type": ["major"]
+  },
+  "HDS 194B": {
+    "division": "upper",
+    "sub_category": "honors",
+    "requirement_type": ["major"]
+  },
+  "HDS 194C": {
+    "division": "upper",
+    "sub_category": "honors",
+    "requirement_type": ["major"]
+  }
+}

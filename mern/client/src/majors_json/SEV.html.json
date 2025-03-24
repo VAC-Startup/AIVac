@@ -1,0 +1,7 @@
+{
+  "Synthesis Program": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  }
+}

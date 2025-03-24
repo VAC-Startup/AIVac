@@ -1,0 +1,12 @@
+{
+  "Dimensions of Culture Writing Program": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "Public Service Minor": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "CCE 1": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major"]
+  },
+  "CCE 2": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "CCE 3": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "CCE 120": {
+    "division": "upper",
+    "sub_category": "project-based",
+    "requirement_type": ["major"]
+  },
+  "CCE 110": {
+    "division": "upper",
+    "sub_category": "general education",
+    "requirement_type": ["major"]
+  }
+}

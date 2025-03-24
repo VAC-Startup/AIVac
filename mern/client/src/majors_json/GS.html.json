@@ -1,0 +1,12 @@
+{
+  "GS 1": {
+    "division": "lower",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  },
+  "GS 2": {
+    "division": "lower",
+    "sub_category": "study abroad",
+    "requirement_type": ["major", "minor"]
+  }
+}

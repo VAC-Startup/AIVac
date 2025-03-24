@@ -1,0 +1,22 @@
+{
+  "ERC 20": {
+    "division": "lower",
+    "sub_category": "honors seminar",
+    "requirement_type": ["major"]
+  },
+  "ERC 92": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "ERC 192A": {
+    "division": "upper",
+    "sub_category": "global preparatory seminar",
+    "requirement_type": ["major"]
+  },
+  "ERC 89": {
+    "division": "lower",
+    "sub_category": "service-learning seminar",
+    "requirement_type": ["major"]
+  }
+}

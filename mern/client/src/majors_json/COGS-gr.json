@@ -1,0 +1,132 @@
+{
+  "COGS 200": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "COGS 201": {
+    "division": "upper",
+    "sub_category": "foundations",
+    "requirement_type": ["major"]
+  },
+  "COGS 202": {
+    "division": "upper",
+    "sub_category": "foundations",
+    "requirement_type": ["major"]
+  },
+  "COGS 203": {
+    "division": "upper",
+    "sub_category": "foundations",
+    "requirement_type": ["major"]
+  },
+  "COGS 210A": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 210B": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 210C": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 211A": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 211B": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 211C": {
+    "division": "upper",
+    "sub_category": "research project",
+    "requirement_type": ["major"]
+  },
+  "COGS 290": {
+    "division": "upper",
+    "sub_category": "laboratory rotations",
+    "requirement_type": ["major"]
+  },
+  "COGS 205": {
+    "division": "upper",
+    "sub_category": "qualifying",
+    "requirement_type": ["major"]
+  },
+  "BIOM 225": {
+    "division": "upper",
+    "sub_category": "anthropogeny",
+    "requirement_type": ["major"]
+  },
+  "BIOM 229": {
+    "division": "upper",
+    "sub_category": "anthropogeny",
+    "requirement_type": ["major"]
+  },
+  "BIOM 218": {
+    "division": "upper",
+    "sub_category": "anthropogeny",
+    "requirement_type": ["major"]
+  },
+  "DSGN 201": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "DSGN 219": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "COGS 220": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "COGS 230": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "COGS 231": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "COGS 260": {
+    "division": "upper",
+    "sub_category": "human-centered design",
+    "requirement_type": ["major"]
+  },
+  "FMPH 258C": {
+    "division": "upper",
+    "sub_category": "ethics",
+    "requirement_type": ["major"]
+  },
+  "FMPH 460": {
+    "division": "upper",
+    "sub_category": "ethics",
+    "requirement_type": ["major"]
+  },
+  "COGR 275": {
+    "division": "upper",
+    "sub_category": "ethics",
+    "requirement_type": ["major"]
+  },
+  "COMM 275": {
+    "division": "upper",
+    "sub_category": "ethics",
+    "requirement_type": ["major"]
+  },
+  "CSS 209": {
+    "division": "upper",
+    "sub_category": "computational social science",
+    "requirement_type": ["major"]
+  }
+}

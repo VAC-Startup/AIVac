@@ -1,0 +1,347 @@
+{
+  "JAPN 10A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 10B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 10C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 20A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 20B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 20C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "HILD 10": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HILD 11": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HILD 12": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "JAPN 100A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 100B": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 100C": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 130A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 130B": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 130C": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 135A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 135B": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 135C": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 137A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 137B": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 137C": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 140A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 150A": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 150B": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 150C": {
+    "division": "upper",
+    "sub_category": "language",
+    "requirement_type": ["major"]
+  },
+  "JAPN 180": {
+    "division": "upper",
+    "sub_category": "special topics",
+    "requirement_type": ["major"]
+  },
+  "JAPN 190": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "ANSC 166": {
+    "division": "upper",
+    "sub_category": "film and culture",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 106C": {
+    "division": "upper",
+    "sub_category": "history through comics",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 113": {
+    "division": "upper",
+    "sub_category": "communication",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 111": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 112": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 113": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 114": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 115": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 116": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 117": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 119": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 125": {
+    "division": "upper",
+    "sub_category": "gender studies",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 144": {
+    "division": "upper",
+    "sub_category": "topics in history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 150": {
+    "division": "upper",
+    "sub_category": "modern history",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 160": {
+    "division": "upper",
+    "sub_category": "colloquium",
+    "requirement_type": ["major", "minor"]
+  },
+  "HIEA 180": {
+    "division": "upper",
+    "sub_category": "topics in history",
+    "requirement_type": ["major", "minor"]
+  },
+  "ECON 163": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEA 130": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEA 132": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEA 134": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEA 136": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTEA 138": {
+    "division": "upper",
+    "sub_category": "film",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 113B": {
+    "division": "upper",
+    "sub_category": "political thought",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 113BR": {
+    "division": "upper",
+    "sub_category": "political thought",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 113C": {
+    "division": "upper",
+    "sub_category": "political thought",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 132B": {
+    "division": "upper",
+    "sub_category": "modernity",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 133A": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 133D": {
+    "division": "upper",
+    "sub_category": "foreign policy",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 133DD": {
+    "division": "upper",
+    "sub_category": "comparative analysis",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 133G": {
+    "division": "upper",
+    "sub_category": "relations",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 123": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["major", "minor"]
+  },
+  "SOCI 162R": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPPS 400": {
+    "division": "upper",
+    "sub_category": "international relations",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPIM 411": {
+    "division": "upper",
+    "sub_category": "business",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPPS 416": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPPS 460": {
+    "division": "upper",
+    "sub_category": "politics",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPEC 471": {
+    "division": "upper",
+    "sub_category": "economics",
+    "requirement_type": ["major", "minor"]
+  },
+  "GPPS 478": {
+    "division": "upper",
+    "sub_category": "foreign policy",
+    "requirement_type": ["major", "minor"]
+  },
+  "TDGE 126": {
+    "division": "upper",
+    "sub_category": "animation",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 127N": {
+    "division": "upper",
+    "sub_category": "art",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 127P": {
+    "division": "upper",
+    "sub_category": "art",
+    "requirement_type": ["major", "minor"]
+  },
+  "VIS 128E": {
+    "division": "upper",
+    "sub_category": "art history",
+    "requirement_type": ["major", "minor"]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "BGGN 275": {
+    "division": "upper",
+    "sub_category": "lab methodology",
+    "requirement_type": ["major"]
+  },
+  "BGGN 276": {
+    "division": "upper",
+    "sub_category": "lab analysis",
+    "requirement_type": ["major"]
+  },
+  "BGGN 295": {
+    "division": "upper",
+    "sub_category": "scientific presentation",
+    "requirement_type": ["major"]
+  },
+  "BGGN 293": {
+    "division": "upper",
+    "sub_category": "scientific writing",
+    "requirement_type": ["major"]
+  },
+  "BGGN 272": {
+    "division": "upper",
+    "sub_category": "learning theories",
+    "requirement_type": ["major"]
+  },
+  "EDS 102": {
+    "division": "upper",
+    "sub_category": "qualitative methods",
+    "requirement_type": ["elective"]
+  },
+  "EDS 103": {
+    "division": "upper",
+    "sub_category": "quantitative analysis",
+    "requirement_type": ["elective"]
+  },
+  "BGJC 215": {
+    "division": "upper",
+    "sub_category": "journal club",
+    "requirement_type": ["elective"]
+  },
+  "BGGN 202": {
+    "division": "upper",
+    "sub_category": "professional development",
+    "requirement_type": ["elective"]
+  },
+  "BGGN 211": {
+    "division": "upper",
+    "sub_category": "experimental approaches",
+    "requirement_type": ["elective"]
+  },
+  "BGGN 500": {
+    "division": "upper",
+    "sub_category": "college biology education",
+    "requirement_type": ["elective"]
+  }
+}

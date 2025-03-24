@@ -1,0 +1,17 @@
+{
+  "Political Science 197I": {
+    "division": "upper",
+    "sub_category": "internship",
+    "requirement_type": ["major"]
+  },
+  "Political Science 194": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "Elective Course": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  }
+}

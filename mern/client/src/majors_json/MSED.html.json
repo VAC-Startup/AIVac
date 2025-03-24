@@ -1,0 +1,317 @@
+{
+  "MSED 295": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MSE 801": {
+    "division": "upper",
+    "sub_category": "research apprenticeship",
+    "requirement_type": ["major"]
+  },
+  "MSE 802": {
+    "division": "upper",
+    "sub_category": "research apprenticeship",
+    "requirement_type": ["major"]
+  },
+  "MSE 820": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "MSED 296A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MSED 296B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MSED 296C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MTHED 603": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "TE610C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "MTHED 600": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MTHED 601": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MTHED 604": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MTHED 605": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MTHED 606": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MTHED 607": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MSE 810": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "MTHED 810": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "PSYC 201A": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "PSYC 201B": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "MATH 282A": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "MATH 282B": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "EDS 254": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "EDS 255": {
+    "division": "upper",
+    "sub_category": "research methods",
+    "requirement_type": ["major"]
+  },
+  "COGS 102A": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 102B": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 152/252": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 155": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 200": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 203": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 220": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 260": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 101A": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 101B": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "COGS 101C": {
+    "division": "upper",
+    "sub_category": "cognitive science",
+    "requirement_type": ["major"]
+  },
+  "MSE 805": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  },
+  "MSE 806": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  },
+  "MSE 807": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  },
+  "EDS 294": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  },
+  "MSE 830": {
+    "division": "upper",
+    "sub_category": "doctoral research",
+    "requirement_type": ["major"]
+  },
+  "MTHED 830": {
+    "division": "upper",
+    "sub_category": "doctoral research",
+    "requirement_type": ["major"]
+  },
+  "MSE 899": {
+    "division": "upper",
+    "sub_category": "doctoral research",
+    "requirement_type": ["major"]
+  },
+  "MSED 299": {
+    "division": "upper",
+    "sub_category": "doctoral research",
+    "requirement_type": ["major"]
+  },
+  "PHIL 145": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 146": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 147": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 209A": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "HISC 106": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 107": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 108": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 109": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 110": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 160/260": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 163/263": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HISC 165": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "SOCG 270": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 117/EDS 117": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "EDS 136/139": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 126/EDS 126": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "EDS 113": {
+    "division": "upper",
+    "sub_category": "equity and diversity",
+    "requirement_type": ["major"]
+  },
+  "EDS 125": {
+    "division": "upper",
+    "sub_category": "equity and diversity",
+    "requirement_type": ["major"]
+  },
+  "EDS 250": {
+    "division": "upper",
+    "sub_category": "equity and diversity",
+    "requirement_type": ["major"]
+  },
+  "EDS 252": {
+    "division": "upper",
+    "sub_category": "equity and diversity",
+    "requirement_type": ["major"]
+  },
+  "EDS 278": {
+    "division": "upper",
+    "sub_category": "equity and diversity",
+    "requirement_type": ["major"]
+  }
+}

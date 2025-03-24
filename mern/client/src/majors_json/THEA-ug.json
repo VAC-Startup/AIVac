@@ -1,0 +1,182 @@
+{
+  "TDPR 6": {
+    "division": "lower",
+    "sub_category": "practicum",
+    "requirement_type": ["major", "minor"]
+  },
+  "TDHT 10": {
+    "division": "lower",
+    "sub_category": "theatre history",
+    "requirement_type": ["major"]
+  },
+  "TDHT 21": {
+    "division": "lower",
+    "sub_category": "theatre history",
+    "requirement_type": ["major"]
+  },
+  "TDHT 22": {
+    "division": "lower",
+    "sub_category": "theatre history",
+    "requirement_type": ["major"]
+  },
+  "TDHT 23": {
+    "division": "lower",
+    "sub_category": "theatre history",
+    "requirement_type": ["major"]
+  },
+  "TDGE 1": {
+    "division": "lower",
+    "sub_category": "introduction",
+    "requirement_type": ["major"]
+  },
+  "TDAC 1": {
+    "division": "lower",
+    "sub_category": "acting",
+    "requirement_type": ["major"]
+  },
+  "TDDE 1": {
+    "division": "lower",
+    "sub_category": "design",
+    "requirement_type": ["major"]
+  },
+  "TDPW 1": {
+    "division": "lower",
+    "sub_category": "playwriting",
+    "requirement_type": ["major"]
+  },
+  "TDDM 1": {
+    "division": "lower",
+    "sub_category": "dance making",
+    "requirement_type": ["major"]
+  },
+  "TDDM 5": {
+    "division": "lower",
+    "sub_category": "dance performance",
+    "requirement_type": ["major"]
+  },
+  "TDHD 20": {
+    "division": "lower",
+    "sub_category": "dance history",
+    "requirement_type": ["major"]
+  },
+  "TDHD 21": {
+    "division": "lower",
+    "sub_category": "dance history",
+    "requirement_type": ["major"]
+  },
+  "TDMV 20": {
+    "division": "lower",
+    "sub_category": "movement",
+    "requirement_type": ["major"]
+  },
+  "TDTR 10": {
+    "division": "lower",
+    "sub_category": "dance introduction",
+    "requirement_type": ["major", "minor"]
+  },
+  "TDTR 15": {
+    "division": "lower",
+    "sub_category": "dance movement",
+    "requirement_type": ["major"]
+  },
+  "TDTR 20": {
+    "division": "lower",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDTR 104": {
+    "division": "upper",
+    "sub_category": "dance theory",
+    "requirement_type": ["major"]
+  },
+  "TDDM 100": {
+    "division": "upper",
+    "sub_category": "dance making",
+    "requirement_type": ["major"]
+  },
+  "TDDM 101": {
+    "division": "upper",
+    "sub_category": "dance making",
+    "requirement_type": ["major"]
+  },
+  "TDHT 175": {
+    "division": "upper",
+    "sub_category": "dance history",
+    "requirement_type": ["major"]
+  },
+  "TDHT 176": {
+    "division": "upper",
+    "sub_category": "dance history",
+    "requirement_type": ["major"]
+  },
+  "TDMV 120": {
+    "division": "upper",
+    "sub_category": "movement",
+    "requirement_type": ["major"]
+  },
+  "TDMV 122": {
+    "division": "upper",
+    "sub_category": "movement",
+    "requirement_type": ["major"]
+  },
+  "TDMV 110": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 111": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 112": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 123": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 133": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 141": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 142": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 143": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 144": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 146": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 148": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  },
+  "TDMV 149": {
+    "division": "upper",
+    "sub_category": "dance",
+    "requirement_type": ["major"]
+  }
+}

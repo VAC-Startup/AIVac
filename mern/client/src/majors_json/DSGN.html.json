@@ -1,0 +1,107 @@
+{
+  "DSGN 1": {
+    "division": "lower",
+    "sub_category": "design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 10": {
+    "division": "lower",
+    "sub_category": "cognitive science",
+    "requirement_type": ["minor"]
+  },
+  "COMM 10": {
+    "division": "lower",
+    "sub_category": "communication",
+    "requirement_type": ["minor"]
+  },
+  "MAE 3": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["minor"]
+  },
+  "VIS 30": {
+    "division": "lower",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 102B": {
+    "division": "upper",
+    "sub_category": "cognitive design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 102C": {
+    "division": "upper",
+    "sub_category": "cognitive design",
+    "requirement_type": ["minor"]
+  },
+  "COMM 124A": {
+    "division": "upper",
+    "sub_category": "critical design",
+    "requirement_type": ["minor"]
+  },
+  "COMM 124B": {
+    "division": "upper",
+    "sub_category": "critical design",
+    "requirement_type": ["minor"]
+  },
+  "ENG 100D": {
+    "division": "upper",
+    "sub_category": "design for development",
+    "requirement_type": ["minor"]
+  },
+  "ENG 100L": {
+    "division": "upper",
+    "sub_category": "design for development",
+    "requirement_type": ["minor"]
+  },
+  "COGS 120": {
+    "division": "upper",
+    "sub_category": "interaction design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 121": {
+    "division": "upper",
+    "sub_category": "interaction design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 187A": {
+    "division": "upper",
+    "sub_category": "information design",
+    "requirement_type": ["minor"]
+  },
+  "COGS 187B": {
+    "division": "upper",
+    "sub_category": "information design",
+    "requirement_type": ["minor"]
+  },
+  "VIS 100": {
+    "division": "upper",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "VIS 100A": {
+    "division": "upper",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "VIS 101": {
+    "division": "upper",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "VIS 101A": {
+    "division": "upper",
+    "sub_category": "speculative design",
+    "requirement_type": ["minor"]
+  },
+  "DSGN 100": {
+    "division": "upper",
+    "sub_category": "prototyping",
+    "requirement_type": ["minor"]
+  },
+  "DSGN 119": {
+    "division": "upper",
+    "sub_category": "design at large",
+    "requirement_type": ["minor"]
+  }
+}

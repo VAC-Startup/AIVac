@@ -1,0 +1,167 @@
+{
+  "PHB 221": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 222": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 223": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 224": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 225": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 226": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 227": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 241": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 280": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "PHB 242": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "PHB 243A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 400": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 401": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 402": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 403": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 404": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 405": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 406": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 496A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 496B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 499": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "FMPH 410": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 411": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 413": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 415": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 419": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 425": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 426": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 427": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 428": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 430": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 440": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  },
+  "FMPH 441": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["major"]
+  }
+}

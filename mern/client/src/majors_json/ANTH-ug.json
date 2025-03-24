@@ -1,0 +1,177 @@
+{
+  "ANTH 1": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 2": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 3": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 4": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 5": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 20": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 21": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 23": {
+    "division": "lower",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ANTH 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ANTH 103": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ANTH 110": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANAR 104": {
+    "division": "upper",
+    "sub_category": "skills",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 120": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 121": {
+    "division": "upper",
+    "sub_category": "skills",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 146": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANAR 166": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANBI 132": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANBI 174": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 138": {
+    "division": "upper",
+    "sub_category": "skills",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 144": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 147": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 183": {
+    "division": "upper",
+    "sub_category": "skills",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 184": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 193": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 105": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 106": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 107": {
+    "division": "upper",
+    "sub_category": "skills",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 108": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 109": {
+    "division": "upper",
+    "sub_category": "concentration",
+    "requirement_type": ["minor"]
+  },
+  "ANTH 196A": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ANTH 196B": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ANTH 197": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 198": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  },
+  "ANTH 199": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major", "minor"]
+  }
+}

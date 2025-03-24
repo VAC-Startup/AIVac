@@ -1,0 +1,107 @@
+{
+  "SOCG 200": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 201": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "SOCG 202": {
+    "division": "upper",
+    "sub_category": "theory",
+    "requirement_type": ["major"]
+  },
+  "SOCG 203": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 204": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 205": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 206": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 207": {
+    "division": "upper",
+    "sub_category": "methods",
+    "requirement_type": ["major"]
+  },
+  "SOCG 208": {
+    "division": "upper",
+    "sub_category": "proseminar",
+    "requirement_type": ["major"]
+  },
+  "SOCG 212": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 214": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 216": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 222": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 226": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 230": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 234": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 244": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 264": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 267": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "SOCG 252": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  },
+  "SOCG 253": {
+    "division": "upper",
+    "sub_category": "practicum",
+    "requirement_type": ["major"]
+  }
+}

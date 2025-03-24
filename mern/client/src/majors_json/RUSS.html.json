@@ -1,0 +1,157 @@
+{
+  "LTRU 1A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTRU 1B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTRU 1C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTRU 2A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTRU 2B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["major", "minor"]
+  },
+  "LTRU 104A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTRU 104B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTRU 104C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "LTRU 110A": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTRU 110B": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTRU 110C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTRU 123": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTRU 150": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["major"]
+  },
+  "LTRU 198": {
+    "division": "upper",
+    "sub_category": "study",
+    "requirement_type": ["major"]
+  },
+  "LTRU 199": {
+    "division": "upper",
+    "sub_category": "special studies",
+    "requirement_type": ["major"]
+  },
+  "HIEU 113": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 114": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 134": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 146": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 152": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 156": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 157": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 171/271": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 178": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEU 184": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "LIDS 19": {
+    "division": "lower",
+    "sub_category": "linguistics",
+    "requirement_type": ["major", "minor"]
+  },
+  "COMM 104E": {
+    "division": "upper",
+    "sub_category": "communication",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 126AB": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 130AD": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 142Q": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 147B": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major", "minor"]
+  }
+}

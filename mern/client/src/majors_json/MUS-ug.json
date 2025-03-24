@@ -1,0 +1,247 @@
+{
+  "MUS 1A": {
+    "division": "lower",
+    "sub_category": "music appreciation",
+    "requirement_type": ["major", "minor"]
+  },
+  "MUS 1B": {
+    "division": "lower",
+    "sub_category": "music appreciation",
+    "requirement_type": ["minor"]
+  },
+  "MUS 1C": {
+    "division": "lower",
+    "sub_category": "music appreciation",
+    "requirement_type": ["minor"]
+  },
+  "MUS 2A": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major", "minor"]
+  },
+  "MUS 2B": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 2C": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 2AK": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 2BK": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 2CK": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 2JK": {
+    "division": "lower",
+    "sub_category": "musicianship",
+    "requirement_type": ["major"]
+  },
+  "MUS 33A": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 33B": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 33C": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 43": {
+    "division": "upper",
+    "sub_category": "department seminar",
+    "requirement_type": ["major"]
+  },
+  "MUS 95B": {
+    "division": "upper",
+    "sub_category": "ensemble performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 95C": {
+    "division": "upper",
+    "sub_category": "ensemble performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 120A": {
+    "division": "upper",
+    "sub_category": "music history",
+    "requirement_type": ["major"]
+  },
+  "MUS 120B": {
+    "division": "upper",
+    "sub_category": "music history",
+    "requirement_type": ["major"]
+  },
+  "MUS 120C": {
+    "division": "upper",
+    "sub_category": "music history",
+    "requirement_type": ["major"]
+  },
+  "MUS 101A": {
+    "division": "upper",
+    "sub_category": "music theory",
+    "requirement_type": ["major"]
+  },
+  "MUS 101B": {
+    "division": "upper",
+    "sub_category": "music theory",
+    "requirement_type": ["major"]
+  },
+  "MUS 101C": {
+    "division": "upper",
+    "sub_category": "music theory",
+    "requirement_type": ["major"]
+  },
+  "MUS 103A": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 103B": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 103C": {
+    "division": "upper",
+    "sub_category": "composition",
+    "requirement_type": ["major"]
+  },
+  "MUS 132": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 132V": {
+    "division": "upper",
+    "sub_category": "performance",
+    "requirement_type": ["major"]
+  },
+  "MUS 105": {
+    "division": "upper",
+    "sub_category": "jazz and African diaspora",
+    "requirement_type": ["major"]
+  },
+  "MUS 170": {
+    "division": "upper",
+    "sub_category": "technology",
+    "requirement_type": ["major"]
+  },
+  "MUS 171": {
+    "division": "upper",
+    "sub_category": "technology",
+    "requirement_type": ["major"]
+  },
+  "MUS 172": {
+    "division": "upper",
+    "sub_category": "advanced practice",
+    "requirement_type": ["major"]
+  },
+  "MUS 173": {
+    "division": "upper",
+    "sub_category": "advanced practice",
+    "requirement_type": ["major"]
+  },
+  "MUS 174": {
+    "division": "upper",
+    "sub_category": "advanced practice",
+    "requirement_type": ["major"]
+  },
+  "MUS 176": {
+    "division": "upper",
+    "sub_category": "advanced practice",
+    "requirement_type": ["major"]
+  },
+  "MUS 177": {
+    "division": "upper",
+    "sub_category": "advanced practice",
+    "requirement_type": ["major"]
+  },
+  "MUS 160A": {
+    "division": "upper",
+    "sub_category": "senior project",
+    "requirement_type": ["major"]
+  },
+  "MUS 160B": {
+    "division": "upper",
+    "sub_category": "senior project",
+    "requirement_type": ["major"]
+  },
+  "MUS 198": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "MUS 199": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "VIS 41": {
+    "division": "lower",
+    "sub_category": "foundation",
+    "requirement_type": ["minor"]
+  },
+  "CSE 11": {
+    "division": "lower",
+    "sub_category": "programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 8A": {
+    "division": "lower",
+    "sub_category": "programming",
+    "requirement_type": ["major"]
+  },
+  "CSE 8B": {
+    "division": "lower",
+    "sub_category": "programming",
+    "requirement_type": ["major"]
+  },
+  "Math 20A": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  },
+  "Math 20B": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  },
+  "Math 10A": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  },
+  "Math 10B": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  },
+  "Math 10C": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  },
+  "Math 15A": {
+    "division": "lower",
+    "sub_category": "mathematics",
+    "requirement_type": ["major"]
+  }
+}

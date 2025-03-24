@@ -1,0 +1,112 @@
+{
+  "ASTR 200": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ASTR 201": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ASTR 202": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ASTR 500": {
+    "division": "upper",
+    "sub_category": "teaching",
+    "requirement_type": ["major"]
+  },
+  "ASTR 210": {
+    "division": "upper",
+    "sub_category": "core/elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 211": {
+    "division": "upper",
+    "sub_category": "core/elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 212": {
+    "division": "upper",
+    "sub_category": "core/elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 213": {
+    "division": "upper",
+    "sub_category": "core/elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 214": {
+    "division": "upper",
+    "sub_category": "core/elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 215": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 220": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 221": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 222": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 223": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 224": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 225": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 226": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 227": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 230": {
+    "division": "upper",
+    "sub_category": "elective",
+    "requirement_type": ["major"]
+  },
+  "ASTR 250": {
+    "division": "upper",
+    "sub_category": "colloquium",
+    "requirement_type": ["major"]
+  },
+  "ASTR 251": {
+    "division": "upper",
+    "sub_category": "journal club",
+    "requirement_type": ["major"]
+  },
+  "ASTR 298": {
+    "division": "upper",
+    "sub_category": "directed studies",
+    "requirement_type": ["major"]
+  }
+}

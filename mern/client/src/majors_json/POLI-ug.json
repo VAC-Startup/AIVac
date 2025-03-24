@@ -1,0 +1,287 @@
+{
+  "POLI 5": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 5D": {
+    "division": "lower",
+    "sub_category": "data science",
+    "requirement_type": ["major"]
+  },
+  "POLI 10": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 10D": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major"]
+  },
+  "POLI 11": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 11D": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major"]
+  },
+  "POLI 12": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 12D": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major"]
+  },
+  "POLI 13": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 13D": {
+    "division": "lower",
+    "sub_category": "introductory",
+    "requirement_type": ["major"]
+  },
+  "POLI 30": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "POLI 30D": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "POLI 100A": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100B": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100C": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100DA": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100E": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100F": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 100X": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 112A": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 118": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 160AA": {
+    "division": "upper",
+    "sub_category": "public policy",
+    "requirement_type": ["major"]
+  },
+  "POLI 117": {
+    "division": "upper",
+    "sub_category": "public policy",
+    "requirement_type": ["major"]
+  },
+  "POLI 117R": {
+    "division": "upper",
+    "sub_category": "public policy",
+    "requirement_type": ["major"]
+  },
+  "POLI 173": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 174": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 175": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 176": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 177": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 178": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 179": {
+    "division": "upper",
+    "sub_category": "data science",
+    "requirement_type": ["minor"]
+  },
+  "POLI 100H": {
+    "division": "upper",
+    "sub_category": "American politics",
+    "requirement_type": ["major"]
+  },
+  "POLI 100I": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 100O": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 100V": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 100W": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 100Y": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 100Z": {
+    "division": "upper",
+    "sub_category": "race/ethnicity",
+    "requirement_type": ["major"]
+  },
+  "POLI 102D": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 102L": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104A": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104B": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104C": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104D": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104E": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104F": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104G": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104I": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104J": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104K": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104L": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104M": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104N": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104P": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 104T": {
+    "division": "upper",
+    "sub_category": "public law",
+    "requirement_type": ["major"]
+  },
+  "POLI 102C": {
+    "division": "upper",
+    "sub_category": "public policy",
+    "requirement_type": ["major"]
+  },
+  "POLI 101E": {
+    "division": "upper",
+    "sub_category": "public policy",
+    "requirement_type": ["major"]
+  }
+}

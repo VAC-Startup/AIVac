@@ -1,0 +1,27 @@
+{
+  "CAT 1": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "CAT 2": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "CAT 3": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "CAT 125": {
+    "division": "upper",
+    "sub_category": "interdisciplinary",
+    "requirement_type": ["major"]
+  },
+  "CAT 125R": {
+    "division": "upper",
+    "sub_category": "interdisciplinary",
+    "requirement_type": ["major"]
+  }
+}

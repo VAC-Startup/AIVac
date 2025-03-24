@@ -1,0 +1,47 @@
+{
+  "CLASSIC 200A": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 200B": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 200C": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 201": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 220": {
+    "division": "upper",
+    "sub_category": "seminar",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 290": {
+    "division": "upper",
+    "sub_category": "research",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 280": {
+    "division": "upper",
+    "sub_category": "independent study",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 399": {
+    "division": "upper",
+    "sub_category": "dissertation",
+    "requirement_type": ["major"]
+  },
+  "CLASSIC 299": {
+    "division": "upper",
+    "sub_category": "dissertation",
+    "requirement_type": ["major"]
+  }
+}

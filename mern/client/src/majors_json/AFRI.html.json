@@ -1,0 +1,217 @@
+{
+  "ANRG 104": {
+    "division": "upper",
+    "sub_category": "traditional cultures",
+    "requirement_type": ["minor"]
+  },
+  "COMM 118": {
+    "division": "upper",
+    "sub_category": "oral history",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 142": {
+    "division": "upper",
+    "sub_category": "languages",
+    "requirement_type": ["minor"]
+  },
+  "HIAF 110": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIAF 120": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 135": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "ANGN 183": {
+    "division": "upper",
+    "sub_category": "society and politics",
+    "requirement_type": ["minor"]
+  },
+  "COMM 179": {
+    "division": "upper",
+    "sub_category": "colonialism and culture",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 157": {
+    "division": "upper",
+    "sub_category": "conflict",
+    "requirement_type": ["minor"]
+  },
+  "HIAF 111": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIAF 130": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HIAF 140": {
+    "division": "upper",
+    "sub_category": "economic history",
+    "requirement_type": ["minor"]
+  },
+  "HIUS 136": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "POLI 132A": {
+    "division": "upper",
+    "sub_category": "political theory",
+    "requirement_type": ["minor"]
+  },
+  "POLI 135A": {
+    "division": "upper",
+    "sub_category": "conflict",
+    "requirement_type": ["minor"]
+  },
+  "POLI 136B": {
+    "division": "upper",
+    "sub_category": "comparative politics",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 148E": {
+    "division": "upper",
+    "sub_category": "inequality",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 157": {
+    "division": "upper",
+    "sub_category": "religion",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 158": {
+    "division": "upper",
+    "sub_category": "religion",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 188E": {
+    "division": "upper",
+    "sub_category": "social change",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 188J": {
+    "division": "upper",
+    "sub_category": "social change",
+    "requirement_type": ["minor"]
+  },
+  "COMM 127": {
+    "division": "upper",
+    "sub_category": "folklore",
+    "requirement_type": ["minor"]
+  },
+  "COMM 146": {
+    "division": "upper",
+    "sub_category": "culture",
+    "requirement_type": ["minor"]
+  },
+  "ETHN 176": {
+    "division": "upper",
+    "sub_category": "music and expression",
+    "requirement_type": ["minor"]
+  },
+  "LTGN 130": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTGN 132": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTGN 133": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTGN 185": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTGN 186A-B-C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 187": {
+    "division": "upper",
+    "sub_category": "music and expression",
+    "requirement_type": ["minor"]
+  },
+  "LTEN 188": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "MUS 13AF": {
+    "division": "lower",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "MUS 111": {
+    "division": "upper",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "MUS 126": {
+    "division": "upper",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "MUS 127A-B": {
+    "division": "upper",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 105": {
+    "division": "upper",
+    "sub_category": "film and media",
+    "requirement_type": ["minor"]
+  },
+  "SOCI 187": {
+    "division": "upper",
+    "sub_category": "film",
+    "requirement_type": ["minor"]
+  },
+  "THHS 109": {
+    "division": "upper",
+    "sub_category": "drama",
+    "requirement_type": ["minor"]
+  },
+  "THHS 153": {
+    "division": "upper",
+    "sub_category": "dance history",
+    "requirement_type": ["minor"]
+  },
+  "VIS 126A": {
+    "division": "upper",
+    "sub_category": "art",
+    "requirement_type": ["minor"]
+  },
+  "VIS 127B": {
+    "division": "upper",
+    "sub_category": "art and rituals",
+    "requirement_type": ["minor"]
+  },
+  "VIS 127D": {
+    "division": "upper",
+    "sub_category": "art and exoticism",
+    "requirement_type": ["minor"]
+  },
+  "VIS 128E": {
+    "division": "upper",
+    "sub_category": "art",
+    "requirement_type": ["minor"]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "ECE 5": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 15": {
+    "division": "lower",
+    "sub_category": "programming",
+    "requirement_type": ["major"]
+  },
+  "ECE 16": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 25": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 30": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 35": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 45": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 65": {
+    "division": "lower",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 100": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 101": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 102": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 103": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 107": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 109": {
+    "division": "upper",
+    "sub_category": "core",
+    "requirement_type": ["major"]
+  },
+  "ECE 111": {
+    "division": "upper",
+    "sub_category": "design",
+    "requirement_type": ["major"]
+  },
+  "ECE 115": {
+    "division": "upper",
+    "sub_category": "design",
+    "requirement_type": ["major"]
+  },
+  "ECE 140A": {
+    "division": "upper",
+    "sub_category": "engineering",
+    "requirement_type": ["major"]
+  },
+  "ECE 140B": {
+    "division": "upper",
+    "sub_category": "design",
+    "requirement_type": ["major"]
+  },
+  "ECE 153": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 155": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 164": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 166": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 171": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 181": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 182": {
+    "division": "upper",
+    "sub_category": "depth",
+    "requirement_type": ["major"]
+  },
+  "ECE 191": {
+    "division": "upper",
+    "sub_category": "design",
+    "requirement_type": ["major"]
+  },
+  "CHEM 6A": {
+    "division": "lower",
+    "sub_category": "chemistry",
+    "requirement_type": ["major"]
+  },
+  "MATH 18": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20A": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20B": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20C": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "MATH 20D": {
+    "division": "lower",
+    "sub_category": "math",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2A": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2B": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2C": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 2D": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 4A": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 4B": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 4C": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  },
+  "PHYS 4D": {
+    "division": "lower",
+    "sub_category": "physics",
+    "requirement_type": ["major"]
+  }
+}

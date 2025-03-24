@@ -1,0 +1,27 @@
+{
+  "HUM 1": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major", "minor"]
+  },
+  "HUM 2": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major", "minor"]
+  },
+  "HUM 3": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HUM 4": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  },
+  "HUM 5": {
+    "division": "lower",
+    "sub_category": "core",
+    "requirement_type": ["major", "minor"]
+  }
+}

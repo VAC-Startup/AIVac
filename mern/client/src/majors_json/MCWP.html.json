@@ -1,0 +1,17 @@
+{
+  "MCWP 40": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "MCWP 50": {
+    "division": "lower",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "MCWP 125": {
+    "division": "upper",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  }
+}

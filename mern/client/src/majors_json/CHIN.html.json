@@ -1,0 +1,402 @@
+{
+  "CHIN 10 A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "CHIN 10 B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "CHIN 10 C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "CHIN 20 A": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "CHIN 20 B": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "CHIN 20 C": {
+    "division": "lower",
+    "sub_category": "language",
+    "requirement_type": ["minor"]
+  },
+  "HILD 10": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 11": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "HILD 12": {
+    "division": "lower",
+    "sub_category": "history",
+    "requirement_type": ["minor"]
+  },
+  "LTWL 4C": {
+    "division": "lower",
+    "sub_category": "literature",
+    "requirement_type": ["minor"]
+  },
+  "MUS 13AS": {
+    "division": "lower",
+    "sub_category": "music",
+    "requirement_type": ["minor"]
+  },
+  "GSS 23": {
+    "division": "lower",
+    "sub_category": "global studies",
+    "requirement_type": ["minor"]
+  },
+  "ANSC 136": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "ANSC 137": {
+    "division": "upper",
+    "sub_category": "anthropology",
+    "requirement_type": ["major"]
+  },
+  "HIEA 122": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 123": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 124": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 125": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 126": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 129": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 130": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 131": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 132": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 133": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 134": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 137": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 138": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 140": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 155": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 164": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 166": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 168": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "HIEA 171": {
+    "division": "upper",
+    "sub_category": "history",
+    "requirement_type": ["major"]
+  },
+  "LTCH 101": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 100A": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 100B": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 100C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 110A": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 110B": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 110C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 120A": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 120B": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTEA 120C": {
+    "division": "upper",
+    "sub_category": "literature",
+    "requirement_type": ["major"]
+  },
+  "LTWL 138": {
+    "division": "upper",
+    "sub_category": "religion",
+    "requirement_type": ["major"]
+  },
+  "LTWR 113": {
+    "division": "upper",
+    "sub_category": "writing",
+    "requirement_type": ["major"]
+  },
+  "MUS 111": {
+    "division": "upper",
+    "sub_category": "music",
+    "requirement_type": ["major"]
+  },
+  "GPPS 400": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 403": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 404": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 405": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 406": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 407": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPIM 455": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPIM 461": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPA 467": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPPS 476": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "GPEC 486": {
+    "division": "upper",
+    "sub_category": "policy",
+    "requirement_type": ["major"]
+  },
+  "PHIL 158": {
+    "division": "upper",
+    "sub_category": "philosophy",
+    "requirement_type": ["major"]
+  },
+  "POLI 113A": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 113B": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 113BR": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 113C": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 113CR": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 130B": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 131C": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 131CR": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 132": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "POLI 132R": {
+    "division": "upper",
+    "sub_category": "political science",
+    "requirement_type": ["major"]
+  },
+  "SOCI 140K": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 188G": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "SOCI 189": {
+    "division": "upper",
+    "sub_category": "sociology",
+    "requirement_type": ["major"]
+  },
+  "VIS 105D": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 105E": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127B": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127C": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127D": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127E": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127G": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 127N": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  },
+  "VIS 129E": {
+    "division": "upper",
+    "sub_category": "visual arts",
+    "requirement_type": ["major"]
+  }
+}
