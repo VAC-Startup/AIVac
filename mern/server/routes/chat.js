@@ -17,8 +17,6 @@ router.post("/", async (req, res) => {
     if (!response.ok) {
       throw new Error(`FastAPI responded with status: ${response.status}`);
     }
-    console.log("fuckkkk");
-    console.log(response);
 
     const data = await response.json();
     res.json(data);

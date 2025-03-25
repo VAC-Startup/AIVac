@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef } from "react";
 
 const FourYearCoursePlannerV3 = () => {
   // Sample course data - in a real app this would come from an API
@@ -153,7 +153,6 @@ const FourYearCoursePlannerV3 = () => {
 
   // Right sidebar state
   const [rightSidebarWidth, setRightSidebarWidth] = useState(300);
-  const [isResizing, setIsResizing] = useState(false);
   const [searchSectionHeight, setSearchSectionHeight] = useState(50);
 
   // Chat feature state
@@ -178,39 +177,8 @@ const FourYearCoursePlannerV3 = () => {
   const [previewState, setPreviewState] = useState(null);
   const [invalidDrop, setInvalidDrop] = useState(false);
 
-  // NEW: Schedule loading state
-  const [isScheduleLoading, setIsScheduleLoading] = useState(false);
-  const [scheduleError, setScheduleError] = useState(null);
-  const [scheduleTemplates, setScheduleTemplates] = useState([]);
-  const [selectedTemplate, setSelectedTemplate] = useState("");
+  // Graduation info state
   const [graduationInfo, setGraduationInfo] = useState(null);
-
-  // NEW: Fetch available schedule templates on component mount
-  useEffect(() => {
-    const fetchTemplates = async () => {
-      try {
-        // In production, replace with actual API call
-        // const response = await fetch('http://your-backend-url/api/schedule-templates');
-
-        // For now, just use dummy data
-        const dummyTemplates = [
-          { id: "cs-standard", name: "Computer Science (Standard)" },
-          { id: "cs-ai", name: "Computer Science (AI Focus)" },
-          { id: "cs-web", name: "Computer Science (Web Development)" },
-          { id: "ds-standard", name: "Data Science" },
-        ];
-
-        setScheduleTemplates(dummyTemplates);
-        if (dummyTemplates.length > 0) {
-          setSelectedTemplate(dummyTemplates[0].id);
-        }
-      } catch (error) {
-        console.error("Error fetching schedule templates:", error);
-      }
-    };
-
-    fetchTemplates();
-  }, []);
 
   // Update filtered courses when search term changes
   useEffect(() => {
@@ -230,84 +198,9 @@ const FourYearCoursePlannerV3 = () => {
     }
   }, [chatMessages]);
 
-  // NEW: Function to get the graduation term with correct sorting
-  const getGraduationTerm = (backendSchedule) => {
-    // First step: properly sort the term codes
-    const termCodeOrder = {
-      // 2024-2025
-      FA24: 20240,
-      WI25: 20241,
-      SP25: 20242,
-
-      // 2025-2026
-      FA25: 20250,
-      WI26: 20251,
-      SP26: 20252,
-
-      // 2026-2027
-      FA26: 20260,
-      WI27: 20261,
-      SP27: 20262,
-
-      // 2027-2028
-      FA27: 20270,
-      WI28: 20271,
-      SP28: 20272,
-    };
-
-    // Get all term codes and sort them chronologically
-    const sortedTerms = Object.keys(backendSchedule).sort((a, b) => {
-      const orderA = termCodeOrder[a] || 0;
-      const orderB = termCodeOrder[b] || 0;
-      return orderB - orderA; // Descending order, most recent first
-    });
-
-    // If no terms, return null
-    if (sortedTerms.length === 0) return null;
-
-    // The first term in the sorted list is the most recent one
-    const lastTermCode = sortedTerms[0];
-
-    // Map to our schedule format
-    const termMapping = {
-      // Year 0 (2024-2025)
-      FA24: { yearIndex: 0, term: "fall", yearName: "2024-2025" },
-      WI25: { yearIndex: 0, term: "winter", yearName: "2024-2025" },
-      SP25: { yearIndex: 0, term: "spring", yearName: "2024-2025" },
-
-      // Year 1 (2025-2026)
-      FA25: { yearIndex: 1, term: "fall", yearName: "2025-2026" },
-      WI26: { yearIndex: 1, term: "winter", yearName: "2025-2026" },
-      SP26: { yearIndex: 1, term: "spring", yearName: "2025-2026" },
-
-      // Year 2 (2026-2027)
-      FA26: { yearIndex: 2, term: "fall", yearName: "2026-2027" },
-      WI27: { yearIndex: 2, term: "winter", yearName: "2026-2027" },
-      SP27: { yearIndex: 2, term: "spring", yearName: "2026-2027" },
-
-      // Year 3 (2027-2028)
-      FA27: { yearIndex: 3, term: "fall", yearName: "2027-2028" },
-      WI28: { yearIndex: 3, term: "winter", yearName: "2027-2028" },
-      SP28: { yearIndex: 3, term: "spring", yearName: "2027-2028" },
-    };
-
-    const mapping = termMapping[lastTermCode];
-    if (!mapping) return null;
-
-    return {
-      code: lastTermCode,
-      yearIndex: mapping.yearIndex,
-      term: mapping.term,
-      yearName: mapping.yearName,
-      displayName: `${
-        mapping.term.charAt(0).toUpperCase() + mapping.term.slice(1)
-      } ${mapping.yearName}`,
-    };
-  };
-
-  // NEW: Function to convert backend schedule format to frontend format
+  // Function to convert backend schedule format to frontend format
   const convertScheduleFormat = (backendSchedule) => {
-    // Initialize empty schedule structure (4 years, each with fall, winter, spring terms)
+    // Initialize empty schedule structure
     const frontendSchedule = Array(4)
       .fill()
       .map(() => ({
@@ -316,76 +209,80 @@ const FourYearCoursePlannerV3 = () => {
         spring: Array(3).fill(null),
       }));
 
-    // Define term mapping
-    const termMapping = {
-      // Year 0 (2024-2025)
-      FA24: { yearIndex: 0, term: "fall" },
-      WI25: { yearIndex: 0, term: "winter" },
-      SP25: { yearIndex: 0, term: "spring" },
-
-      // Year 1 (2025-2026)
-      FA25: { yearIndex: 1, term: "fall" },
-      WI26: { yearIndex: 1, term: "winter" },
-      SP26: { yearIndex: 1, term: "spring" },
-
-      // Year 2 (2026-2027)
-      FA26: { yearIndex: 2, term: "fall" },
-      WI27: { yearIndex: 2, term: "winter" },
-      SP27: { yearIndex: 2, term: "spring" },
-
-      // Year 3 (2027-2028)
-      FA27: { yearIndex: 3, term: "fall" },
-      WI28: { yearIndex: 3, term: "winter" },
-      SP28: { yearIndex: 3, term: "spring" },
-    };
-
     // Process each term in the backend schedule
     Object.entries(backendSchedule).forEach(([termCode, courses]) => {
-      // Get the mapping for this term
-      const mapping = termMapping[termCode];
+      const yearMap = {
+        FA24: [0, "fall"],
+        FA25: [1, "fall"],
+        FA26: [2, "fall"],
+        FA27: [3, "fall"],
+        WI25: [0, "winter"],
+        WI26: [1, "winter"],
+        WI27: [2, "winter"],
+        WI28: [3, "winter"],
+        SP25: [0, "spring"],
+        SP26: [1, "spring"],
+        SP27: [2, "spring"],
+        SP28: [3, "spring"],
+      };
 
-      if (!mapping) {
-        console.warn(`Unknown term code: ${termCode}`);
-        return; // Skip this term
-      }
+      const [yearIndex, term] = yearMap[termCode] || [null, null];
+      if (yearIndex === null) return;
 
-      const { yearIndex, term } = mapping;
-
-      // For each course in this term, create a proper course object
       courses.forEach((courseName, index) => {
-        if (index >= 3) {
-          console.warn(
-            `More than 3 courses in ${termCode}, only first 3 will be displayed`
-          );
-          return; // Skip courses beyond the first 3
-        }
+        if (
+          index >= 3 ||
+          !courseName ||
+          courseName === "N/A" ||
+          courseName === "-"
+        )
+          return;
 
-        // Handle empty courses or placeholders
-        if (!courseName || courseName === "N/A" || courseName === "-") {
-          return; // Skip this course slot
-        }
-
-        // Parse course name to extract department and course number
-        const parts = courseName.split(" ");
-        const department = parts[0];
-        const courseNumber = parts.slice(1).join(" ");
-
-        // Create a course object with the required properties
-        const courseObject = {
-          id: courseName.replace(" ", ""), // Remove space to create id like "MATH20C"
+        const department = courseName.split(" ")[0];
+        frontendSchedule[yearIndex][term][index] = {
+          id: courseName.replace(" ", ""),
           name: courseName,
-          units: 4.0, // Default to 4.0 units since we don't have this info
-          department: department,
-          prerequisites: [], // We don't have this info, so use empty array
-          offeredIn: ["fall", "winter", "spring"], // Assume offered in all terms as we don't have this info
+          units: 4.0,
+          department,
+          prerequisites: [],
+          offeredIn: ["fall", "winter", "spring"],
         };
-
-        // Add the course to the appropriate slot in our schedule
-        frontendSchedule[yearIndex][term][index] = courseObject;
       });
     });
 
     return frontendSchedule;
+  };
+
+  // Function to get graduation term information
+  const getGraduationTerm = (backendSchedule) => {
+    const yearMap = {
+      FA24: [0, "fall", "2024-2025"],
+      FA25: [1, "fall", "2025-2026"],
+      FA26: [2, "fall", "2026-2027"],
+      FA27: [3, "fall", "2027-2028"],
+      WI25: [0, "winter", "2024-2025"],
+      WI26: [1, "winter", "2025-2026"],
+      WI27: [2, "winter", "2026-2027"],
+      WI28: [3, "winter", "2027-2028"],
+      SP25: [0, "spring", "2024-2025"],
+      SP26: [1, "spring", "2025-2026"],
+      SP27: [2, "spring", "2026-2027"],
+      SP28: [3, "spring", "2027-2028"],
+    };
+
+    const lastTerm = Object.keys(backendSchedule).sort().pop();
+    if (!lastTerm || !yearMap[lastTerm]) return null;
+
+    const [yearIndex, term, yearName] = yearMap[lastTerm];
+    return {
+      code: lastTerm,
+      yearIndex,
+      term,
+      yearName,
+      displayName: `${
+        term.charAt(0).toUpperCase() + term.slice(1)
+      } ${yearName}`,
+    };
   };
 
   // Calculate units for a term
@@ -463,72 +360,11 @@ const FourYearCoursePlannerV3 = () => {
     return null;
   };
 
-  // Check if a course already exists in the term
-  const isCourseInTerm = (courseId, yearIndex, term) => {
-    if (!courseId) return false;
-    return schedule[yearIndex][term].some(
-      (course) => course && course.id === courseId
-    );
-  };
-
   // Toggle year collapse
   const toggleYearCollapse = (yearIndex) => {
     const newCollapsedYears = [...collapsedYears];
     newCollapsedYears[yearIndex] = !newCollapsedYears[yearIndex];
     setCollapsedYears(newCollapsedYears);
-  };
-
-  // NEW: Load schedule from backend
-  const loadScheduleFromBackend = async () => {
-    setIsScheduleLoading(true);
-    setScheduleError(null);
-
-    try {
-      // In production, make the actual API call
-      // const response = await fetch(`http://your-backend-url/api/schedules/${selectedTemplate}`);
-      // if (!response.ok) throw new Error(`Failed to load schedule: ${response.statusText}`);
-      // const backendData = await response.json();
-
-      // For demo, using sample data with the student graduating in FA27
-      const backendData = {
-        WI25: ["MATH 20C", "DSC 30", "CCE 1"],
-        SP25: ["DSC 40A", "DSC 80", "CCE 2"],
-        FA25: ["DSC 40B", "MATH 181A", "CCE 3"],
-        WI26: ["DSC 100", "DSC 102", "CCE 120"],
-        SP26: ["DSC 106", "MATH 189", "DSC 140A"],
-        FA26: ["DSC 140B", "DSC 148", "PHIL 150"],
-        WI27: ["DSC 180A", "PHIL 160", "TDGE 11"],
-        SP27: ["DSC 180B", "PHIL 170", "MUS 1A"],
-        FA27: ["ANTH 101", "PHIL 180", "MUS 4"],
-        // Student graduates after FA27
-      };
-
-      // Convert the backend data to frontend format
-      const convertedSchedule = convertScheduleFormat(backendData);
-
-      // Get graduation information
-      const graduation = getGraduationTerm(backendData);
-      if (graduation) {
-        setGraduationInfo(graduation);
-
-        // Optionally show a notification or message about graduation timeline
-        console.log(
-          `This schedule shows courses through ${graduation.displayName}`
-        );
-      } else {
-        setGraduationInfo(null);
-      }
-
-      // Update the schedule state
-      setSchedule(convertedSchedule);
-    } catch (error) {
-      console.error("Error loading schedule:", error);
-      setScheduleError(
-        error.message || "Failed to load schedule. Please try again."
-      );
-    } finally {
-      setIsScheduleLoading(false);
-    }
   };
 
   // Handle drag start for a course from the sidebar or within planner
@@ -917,74 +753,10 @@ const FourYearCoursePlannerV3 = () => {
       <div className="flex flex-1 overflow-hidden">
         {/* Course Schedule - Left/Main Column (flexible width) */}
         <div className="flex-1 p-4 bg-white rounded-lg shadow overflow-y-auto mx-2">
-          {/* NEW: Add the schedule controls and graduation info */}
+          {/* Schedule header */}
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-xl font-bold">Four Year Course Schedule</h2>
-
-            <div className="flex items-center space-x-2">
-              <select
-                className="p-2 border rounded text-sm"
-                value={selectedTemplate}
-                onChange={(e) => setSelectedTemplate(e.target.value)}
-                disabled={isScheduleLoading || scheduleTemplates.length === 0}
-              >
-                {scheduleTemplates.length === 0 ? (
-                  <option>Loading templates...</option>
-                ) : (
-                  scheduleTemplates.map((template) => (
-                    <option key={template.id} value={template.id}>
-                      {template.name}
-                    </option>
-                  ))
-                )}
-              </select>
-
-              <button
-                className={`px-4 py-2 rounded text-sm ${
-                  isScheduleLoading
-                    ? "bg-gray-400 cursor-not-allowed"
-                    : "bg-blue-500 hover:bg-blue-600 text-white"
-                }`}
-                onClick={loadScheduleFromBackend}
-                disabled={isScheduleLoading}
-              >
-                {isScheduleLoading ? (
-                  <span className="flex items-center">
-                    <svg
-                      className="animate-spin -ml-1 mr-2 h-4 w-4 text-white"
-                      xmlns="http://www.w3.org/2000/svg"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                    >
-                      <circle
-                        className="opacity-25"
-                        cx="12"
-                        cy="12"
-                        r="10"
-                        stroke="currentColor"
-                        strokeWidth="4"
-                      ></circle>
-                      <path
-                        className="opacity-75"
-                        fill="currentColor"
-                        d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-                      ></path>
-                    </svg>
-                    Loading...
-                  </span>
-                ) : (
-                  "Load Recommended Schedule"
-                )}
-              </button>
-            </div>
           </div>
-
-          {/* NEW: Error message display */}
-          {scheduleError && (
-            <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
-              {scheduleError}
-            </div>
-          )}
 
           {/* NEW: Graduation info */}
           {graduationInfo && (
@@ -1338,35 +1110,6 @@ const FourYearCoursePlannerV3 = () => {
           className="flex flex-col bg-white rounded-lg shadow overflow-hidden relative"
           style={{ width: `${rightSidebarWidth}px` }}
         >
-          {/* Resize handle on the left side */}
-          <div
-            className="absolute top-0 left-0 h-full w-2 bg-gray-300 hover:bg-blue-300 cursor-ew-resize z-10"
-            onMouseDown={(e) => {
-              e.preventDefault();
-              const startX = e.clientX;
-              const startWidth = rightSidebarWidth;
-
-              const handleMouseMove = (moveEvent) => {
-                const deltaX = startX - moveEvent.clientX;
-                const newWidth = Math.max(
-                  250,
-                  Math.min(500, startWidth + deltaX)
-                );
-                setRightSidebarWidth(newWidth);
-              };
-
-              const handleMouseUp = () => {
-                document.removeEventListener("mousemove", handleMouseMove);
-                document.removeEventListener("mouseup", handleMouseUp);
-                setIsResizing(false);
-              };
-
-              setIsResizing(true);
-              document.addEventListener("mousemove", handleMouseMove);
-              document.addEventListener("mouseup", handleMouseUp);
-            }}
-          ></div>
-
           {/* Course Search Section - Top of right sidebar */}
           <div
             className="overflow-y-auto"
