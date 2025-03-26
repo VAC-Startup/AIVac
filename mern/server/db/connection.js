@@ -1,12 +1,20 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
+import dotenv from "dotenv";
+dotenv.config(); // This loads .env
 
 const URI = process.env.ATLAS_URI || "";
+// const client = new MongoClient(URI, {
+//   serverApi: {
+//     version: ServerApiVersion.v1,
+//     strict: true,
+//     deprecationErrors: true,
+//   },
+//   tls: true,
+//   tlsAllowInvalidCertificates: true,
+// });
 const client = new MongoClient(URI, {
-  serverApi: {
-    version: ServerApiVersion.v1,
-    strict: true,
-    deprecationErrors: true,
-  },
+  tls: true,
+  tlsAllowInvalidCertificates: true, // for local dev only
 });
 
 try {

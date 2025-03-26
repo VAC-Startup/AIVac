@@ -11,7 +11,7 @@ const CourseItem = ({ course, onDragStart, onDragEnd }) => {
       <div className="flex justify-between items-center">
         <span className="font-bold text-sm">{course.name}</span>
         <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs">
-          {course.units.toFixed(1)}
+          {course.units ? Number(course.units).toFixed(1) : "4.0"}
         </span>
       </div>
       <div className="text-xs text-gray-600">
@@ -21,7 +21,7 @@ const CourseItem = ({ course, onDragStart, onDragEnd }) => {
         <span className="ml-2 text-amber-600">
           Prereq:
           <span className="text-gray-600 ml-1">
-            {course.prerequisites?.length > 0
+          {Array.isArray(course.prerequisites) && course.prerequisites.length > 0
               ? course.prerequisites.join(", ")
               : "None"}
           </span>
