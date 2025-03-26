@@ -85,11 +85,11 @@ Query: ${query}`;
     queryTokens.forEach(token => {
       score += (text.match(new RegExp(token, "g")) || []).length * 10;
     });
-
+    //course.credits = typeof course.credits === "number" ? course.credits : 0;
     return {
       id: course.course_id || course.id,
       name: course.course_name,
-      units: course.credits || 4.0,
+      units: typeof course.credits === "number" ? course.credits : 0,
       department: (course.course_id || "").split(" ")[0],
       prerequisites: course.prerequisites || [],
       offeredIn: course.offeredIn || ["fall", "winter", "spring"],

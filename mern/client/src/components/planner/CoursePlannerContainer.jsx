@@ -33,8 +33,14 @@ const CoursePlannerContainer = () => {
     setCollapsedYears(newState);
   };
 
+  // const calculateTermUnits = (courses) => {
+  //   return courses.reduce((total, course) => total + (course ? course.units : 0), 0);
+  // };
   const calculateTermUnits = (courses) => {
-    return courses.reduce((total, course) => total + (course ? course.units : 0), 0);
+    return courses.reduce((total, course) => {
+      const units = Number(course?.units);
+      return total + (isNaN(units) ? 0 : units);
+    }, 0);
   };
 
   const calculateAnnualUnits = (yearIndex) => {

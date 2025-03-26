@@ -52,7 +52,13 @@ const RightSidebar = () => {
   
       const data = await response.json();
       console.log("✅ Results from backend:", data.results);
-      setSearchResults(data.results);
+      setSearchResults(
+        data.results.map((course) => ({
+          ...course,
+          units: isNaN(Number(course.units)) ? 0 : Number(course.units),
+        }))
+      );
+      
     } catch (error) {
       console.error("❌ Search error:", error);
     } finally {
