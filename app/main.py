@@ -2,6 +2,7 @@ from agent import graph
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+import time
 
 
 app = FastAPI()
@@ -22,22 +23,27 @@ class ChatRequest(BaseModel):
 
 # Dummy schedule data
 DUMMY_SCHEDULE = {
-    "WI25": ["MATH 20C", "DSC 30", "CCE 1"],
-    "SP25": ["DSC 40A", "DSC 80", "CCE 2"],
-    "FA25": ["DSC 40B", "MATH 181A", "CCE 3"],
-    "WI26": ["DSC 100", "DSC 102", "CCE 120"],
-    "SP26": ["DSC 106", "MATH 189", "DSC 140A"],
-    "FA26": ["DSC 140B", "DSC 148", "PHIL 150"],
-    "WI27": ["DSC 180A", "PHIL 160", "TDGE 11"],
-    "SP27": ["DSC 180B", "PHIL 170", "MUS 1A"],
-    "FA27": ["ANTH 101", "PHIL 180", "MUS 4"]
+    "FA24": ["MATH 18", "COGS 9", "DSC 10", "ECE 87"],
+    "WI25": ["DSC 20", "MATH 20B", "MGT 16", "PHIL 35", "ANTH 87"],
+    "SP25": ["MATH 20C", "DSC 30", "DSC 40A", "ANTH 128A"],
+    "FA25": ["DSC 40B", "DSC 80", "MATH 181A", "CCE 1"],
+    "WI26": ["DSC 100", "DSC 102", "PHIL 130", "CCE 2"],
+    "SP26": ["DSC 106", "MATH 189", "DSC 140A", "CCE 3"],
+    "FA26": ["DSC 140B", "DSC 148", "PHIL 183", "CCE 120"],
+    "WI27": ["DSC 180A", "DSC 170", "TDGE 1", "MUS 1A"],
+    "SP27": ["DSC 180B", "DSC 167", "DSC 190"],
+    "FA27": ["DSC 196A", "DSC 191", "PHIL 131"],
+    "WI28": ["COGS 187A", "PHIL 160", "DSC 192"],
+    "SP28": ["COGS 188", "PHIL 164", "DSC 197"]
 }
+
 
 
 @app.post("/chat")
 async def chat(request: ChatRequest):
     print(request.message)
-    if request.message.lower().strip() == "schedule":
+    if "schedule" in request.message:
+        time.sleep(3)
         return {
             "messages": [{
                 "type": "ai",
@@ -46,8 +52,6 @@ async def chat(request: ChatRequest):
             }]
         }
     else:
-        
-        config = {"configurable": {"thread_id": request.thread_id}}
         result = await graph.ainvoke(
             {"messages": [{"role": "user", "content": request.message}]})
         return result
