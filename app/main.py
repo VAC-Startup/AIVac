@@ -23,19 +23,21 @@ class ChatRequest(BaseModel):
 
 # Dummy schedule data
 DUMMY_SCHEDULE = {
-    "FA24": ["MATH 18", "COGS 9", "DSC 10", "ECE 87"],
-    "WI25": ["DSC 20", "MATH 20B", "MGT 16", "PHIL 35", "ANTH 87"],
-    "SP25": ["MATH 20C", "DSC 30", "DSC 40A", "ANTH 128A"],
-    "FA25": ["DSC 40B", "DSC 80", "MATH 181A", "CCE 1"],
-    "WI26": ["DSC 100", "DSC 102", "PHIL 130", "CCE 2"],
-    "SP26": ["DSC 106", "MATH 189", "DSC 140A", "CCE 3"],
-    "FA26": ["DSC 140B", "DSC 148", "PHIL 183", "CCE 120"],
-    "WI27": ["DSC 180A", "DSC 170", "TDGE 1", "MUS 1A"],
-    "SP27": ["DSC 180B", "DSC 167", "DSC 190"],
-    "FA27": ["DSC 196A", "DSC 191", "PHIL 131"],
-    "WI28": ["COGS 187A", "PHIL 160", "DSC 192"],
-    "SP28": ["COGS 188", "PHIL 164", "DSC 197"]
+  "FA24": ["MATH 18", "COGS 9", "DSC 10", "ECE 87"],
+  "WI25": ["DSC 20", "MATH 20B", "MGT 16", "PHIL 35", "ANTH 87"],
+  "SP25": ["MATH 20C", "DSC 30", "CCE 1", "PHIL 101"],
+  "FA25": ["DSC 40A", "CCE 2", "MUS 1A", "PHIL 150"],
+  "WI26": ["DSC 80", "DSC 40B", "CCE 3", "MUS 1B"],
+  "SP26": ["DSC 100", "MATH 181A", "CCE 120", "PHIL 160"],
+  "FA26": ["DSC 102", "DSC 106", "DSC 140A", "SIO 109"],
+  "WI27": ["DSC 140B", "DSC 148", "MATH 189", "TDGE 1"],
+  "SP27": ["DSC 180A", "DSC 164", "DSC 167", "PHIL 175"],
+  "FA27": ["DSC 180B", "DSC 170", "DSC 168", "PHIL 180"],
+  "WI28": ["DSC 190", "DSC 195", "DSC 196", "ANTH 101"],
+  "SP28": ["DSC 197", "DSC 191", "PHIL 185", "TDGE 25"]
 }
+
+
 
 
 
