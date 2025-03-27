@@ -137,7 +137,7 @@ const FourYearCoursePlannerV3 = () => {
   // Application state
   const [schedule, setSchedule] = useState(initialSchedule);
   const [searchTerm, setSearchTerm] = useState("");
-  const [filteredCourses, setFilteredCourses] = useState(allCourses);
+  const [searchResults, setsearchResults] = useState([]);
   const [yearLabels] = useState([
     "2024-2025",
     "2025-2026",
@@ -181,15 +181,52 @@ const FourYearCoursePlannerV3 = () => {
   const [graduationInfo, setGraduationInfo] = useState(null);
 
   // Update filtered courses when search term changes
-  useEffect(() => {
-    const filtered = allCourses.filter(
-      (course) =>
-        course.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        course.id.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        course.department.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    setFilteredCourses(filtered);
-  }, [searchTerm]);
+  // useEffect(() => {
+  //   const filtered = allCourses.filter(
+  //     (course) =>
+  //       course.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+  //       course.id.toLowerCase().includes(searchTerm.toLowerCase()) ||
+  //       course.department.toLowerCase().includes(searchTerm.toLowerCase())
+  //   );
+  //   setFilteredCourses(filtered);
+  // }, [searchTerm]);
+  const handleSearch = async (query) => {
+    try {
+      setIsCourseLoading(true);
+      console.log("🎯 Sending query:", query);
+      
+      const response = await fetch("http://localhost:5050/search-courses", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ query }),
+      });
+  
+      if (!response.ok) {
+        throw new Error(`Server error: ${response.status}`);
+      }
+  
+      const data = await response.json();
+      console.log("✅ Results from backend:", data.results);
+      setSearchResults(
+        data.results.map((course) => ({
+          ...course,
+          units: isNaN(Number(course.units)) ? 0 : Number(course.units),
+        }))
+      );
+      
+    } catch (error) {
+      console.error("❌ Search error:", error);
+    } finally {
+      setIsCourseLoading(false);
+    }
+  };
+  const handleKeyDown = (e) => {
+    if (e.key === "Enter") {
+      handleSearch(searchTerm);  // Pass current search value
+    }
+  };
 
   // Scroll to bottom of chat when new messages arrive
   useEffect(() => {
@@ -855,7 +892,7 @@ const FourYearCoursePlannerV3 = () => {
                             </span>
                             <div className="flex items-center">
                               <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs mr-2">
-                                {course.units.toFixed(1)}
+                                {course.units ? Number(course.units).toFixed(1) : "0.0"}
                               </span>
                               <button
                                 onClick={() =>
@@ -1124,7 +1161,9 @@ const FourYearCoursePlannerV3 = () => {
                     draggable
                     onDragStart={(e) => handleDragStart(e, course, true)}
                     onDragEnd={handleDragEnd}
+                    onKeyDown = {handleKeyDown}
                   >
+                    
                     <div className="flex justify-between items-center">
                       <span className="font-bold text-sm">{course.name}</span>
                       <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs">
