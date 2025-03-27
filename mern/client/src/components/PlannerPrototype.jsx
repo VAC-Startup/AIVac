@@ -129,9 +129,9 @@ const FourYearCoursePlannerV3 = () => {
   const initialSchedule = Array(4)
     .fill()
     .map(() => ({
-      fall: Array(3).fill(null),
-      winter: Array(3).fill(null),
-      spring: Array(3).fill(null),
+      fall: Array(4).fill(null),
+      winter: Array(4).fill(null),
+      spring: Array(4).fill(null),
     }));
 
   // Application state
@@ -204,9 +204,9 @@ const FourYearCoursePlannerV3 = () => {
     const frontendSchedule = Array(4)
       .fill()
       .map(() => ({
-        fall: Array(3).fill(null),
-        winter: Array(3).fill(null),
-        spring: Array(3).fill(null),
+        fall: Array(4).fill(null),
+        winter: Array(4).fill(null),
+        spring: Array(4).fill(null),
       }));
 
     // Process each term in the backend schedule
@@ -230,13 +230,7 @@ const FourYearCoursePlannerV3 = () => {
       if (yearIndex === null) return;
 
       courses.forEach((courseName, index) => {
-        if (
-          index >= 3 ||
-          !courseName ||
-          courseName === "N/A" ||
-          courseName === "-"
-        )
-          return;
+        if (!courseName || courseName === "N/A" || courseName === "-") return;
 
         const department = courseName.split(" ")[0];
         frontendSchedule[yearIndex][term][index] = {
@@ -582,16 +576,16 @@ const FourYearCoursePlannerV3 = () => {
     // Count empty slots
     const emptySlots = termCourses.filter((course) => course === null).length;
 
-    // If we have more than one empty slot and total slots > 3, remove excess empty slots
-    if (emptySlots > 1 && termCourses.length > 3) {
+    // If we have more than one empty slot and total slots > 4, remove excess empty slots
+    if (emptySlots > 1 && termCourses.length > 4) {
       // Find indices of empty slots
       const emptyIndices = termCourses
         .map((course, index) => (course === null ? index : -1))
         .filter((index) => index !== -1)
         .sort((a, b) => b - a); // Sort in descending order to remove from the end
 
-      // Keep removing empty slots until we have only one empty slot or minimum 3 total slots
-      while (emptyIndices.length > 1 && termCourses.length > 3) {
+      // Keep removing empty slots until we have only one empty slot or minimum 4 total slots
+      while (emptyIndices.length > 1 && termCourses.length > 4) {
         termCourses.splice(emptyIndices[0], 1);
         emptyIndices.shift();
       }

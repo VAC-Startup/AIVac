@@ -24,7 +24,7 @@ class ChatRequest(BaseModel):
 # Dummy schedule data
 DUMMY_SCHEDULE = {
   "FA24": ["MATH 18", "COGS 9", "DSC 10", "ECE 87"],
-  "WI25": ["DSC 20", "MATH 20B", "MGT 16", "PHIL 35", "ANTH 87"],
+  "WI25": ["DSC 20", "MATH 20B", "MGT 16", "PHIL 35"],
   "SP25": ["MATH 20C", "DSC 30", "CCE 1", "PHIL 101"],
   "FA25": ["DSC 40A", "CCE 2", "MUS 1A", "PHIL 150"],
   "WI26": ["DSC 80", "DSC 40B", "CCE 3", "MUS 1B"],
