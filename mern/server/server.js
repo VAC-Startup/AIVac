@@ -22,6 +22,7 @@ import chat from "./routes/chat.js";
 import searchRouter from "./routes/search.js";
 
 
+
 const PORT = process.env.PORT || 5050;
 const app = express();
 
@@ -30,6 +31,7 @@ app.use(express.json());
 app.use("/record", records);
 app.use("/chat", chat);
 app.use("/search-courses", searchRouter);
+
 
 // start the Express server
 app.listen(PORT, () => {

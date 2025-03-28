@@ -1,129 +1,8 @@
 import { useState, useEffect, useRef } from "react";
+import CourseItem  from "./CourseItem";
 
 const FourYearCoursePlannerV3 = () => {
   // Sample course data - in a real app this would come from an API
-  const allCourses = [
-    {
-      id: "cs101",
-      name: "Introduction to Computer Science",
-      units: 4.0,
-      department: "CS",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "cs201",
-      name: "Data Structures",
-      units: 4.0,
-      department: "CS",
-      prerequisites: ["cs101"],
-      offeredIn: ["winter", "spring"],
-    },
-    {
-      id: "cs301",
-      name: "Algorithms",
-      units: 4.0,
-      department: "CS",
-      prerequisites: ["cs201", "math201"],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "math101",
-      name: "Calculus I",
-      units: 4.0,
-      department: "MATH",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "math201",
-      name: "Linear Algebra",
-      units: 4.0,
-      department: "MATH",
-      prerequisites: ["math101"],
-      offeredIn: ["winter"],
-    },
-    {
-      id: "eng101",
-      name: "Composition",
-      units: 4.0,
-      department: "ENG",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "hist101",
-      name: "World History",
-      units: 4.0,
-      department: "HIST",
-      prerequisites: [],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "phys101",
-      name: "Physics I",
-      units: 4.0,
-      department: "PHYS",
-      prerequisites: ["math101"],
-      offeredIn: ["fall", "winter"],
-    },
-    {
-      id: "chem101",
-      name: "Chemistry I",
-      units: 4.0,
-      department: "CHEM",
-      prerequisites: [],
-      offeredIn: ["fall", "spring"],
-    },
-    {
-      id: "bio101",
-      name: "Biology I",
-      units: 4.0,
-      department: "BIO",
-      prerequisites: [],
-      offeredIn: ["winter", "spring"],
-    },
-    {
-      id: "ld-bdaas",
-      name: "LD BDAAS CORE",
-      units: 4.0,
-      department: "CORE",
-      prerequisites: [],
-      offeredIn: ["fall"],
-    },
-    {
-      id: "breadth-ge",
-      name: "Breadth GE",
-      units: 4.0,
-      department: "GE",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "dei",
-      name: "DEI",
-      units: 4.0,
-      department: "DEI",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-    {
-      id: "cce1",
-      name: "CCE 1",
-      units: 4.0,
-      department: "CCE",
-      prerequisites: [],
-      offeredIn: ["spring"],
-    },
-    {
-      id: "elective",
-      name: "Elective",
-      units: 4.0,
-      department: "ELEC",
-      prerequisites: [],
-      offeredIn: ["fall", "winter", "spring"],
-    },
-  ];
 
   // Initialize 4 years, each with 3 terms (Fall, Winter, Spring), with variable course slots
   const initialSchedule = Array(4)
@@ -137,7 +16,7 @@ const FourYearCoursePlannerV3 = () => {
   // Application state
   const [schedule, setSchedule] = useState(initialSchedule);
   const [searchTerm, setSearchTerm] = useState("");
-  const [searchResults, setsearchResults] = useState([]);
+  const [searchResults, setSearchResults] = useState([]);
   const [yearLabels] = useState([
     "2024-2025",
     "2025-2026",
@@ -158,6 +37,7 @@ const FourYearCoursePlannerV3 = () => {
   // Chat feature state
   const [chatMessages, setChatMessages] = useState([]);
   const [currentMessage, setCurrentMessage] = useState("");
+  const [isCourseLoading, setIsCourseLoading] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const chatEndRef = useRef(null);
 
@@ -179,17 +59,6 @@ const FourYearCoursePlannerV3 = () => {
 
   // Graduation info state
   const [graduationInfo, setGraduationInfo] = useState(null);
-
-  // Update filtered courses when search term changes
-  // useEffect(() => {
-  //   const filtered = allCourses.filter(
-  //     (course) =>
-  //       course.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-  //       course.id.toLowerCase().includes(searchTerm.toLowerCase()) ||
-  //       course.department.toLowerCase().includes(searchTerm.toLowerCase())
-  //   );
-  //   setFilteredCourses(filtered);
-  // }, [searchTerm]);
   const handleSearch = async (query) => {
     try {
       setIsCourseLoading(true);
@@ -202,8 +71,11 @@ const FourYearCoursePlannerV3 = () => {
         },
         body: JSON.stringify({ query }),
       });
-  
+      console.log("📡 Raw response:", response);
+
       if (!response.ok) {
+        const errorText = await response.text(); // grab server error content
+        console.error("❌ Server responded with error:", response.status, errorText);
         throw new Error(`Server error: ${response.status}`);
       }
   
@@ -212,7 +84,7 @@ const FourYearCoursePlannerV3 = () => {
       setSearchResults(
         data.results.map((course) => ({
           ...course,
-          units: isNaN(Number(course.units)) ? 0 : Number(course.units),
+          credits: isNaN(Number(course.credits)) ? 0 : Number(course.credits),
         }))
       );
       
@@ -271,12 +143,12 @@ const FourYearCoursePlannerV3 = () => {
 
         const department = courseName.split(" ")[0];
         frontendSchedule[yearIndex][term][index] = {
-          id: courseName.replace(" ", ""),
-          name: courseName,
-          units: 4.0,
-          department,
+          course_id: courseName.replace(" ", ""),
+          course_name: courseName,
+          credits: 4.0,
+          department: courseName.split(' ')[0],
           prerequisites: [],
-          offeredIn: ["fall", "winter", "spring"],
+          offerings: ["fall", "winter", "spring"],
         };
       });
     });
@@ -319,7 +191,7 @@ const FourYearCoursePlannerV3 = () => {
   // Calculate units for a term
   const calculateTermUnits = (courses) => {
     return courses.reduce((total, course) => {
-      return total + (course ? course.units : 0);
+      return total + (course ? course.credits : 0);
     }, 0);
   };
 
@@ -669,7 +541,7 @@ const FourYearCoursePlannerV3 = () => {
     const userMessage = { role: "user", content: currentMessage };
     setChatMessages((prevMessages) => [...prevMessages, userMessage]);
     setCurrentMessage("");
-    setIsLoading(true);
+    setIsCourseLoading(true);
 
     try {
       // Call the MERN server endpoint
@@ -879,7 +751,7 @@ const FourYearCoursePlannerV3 = () => {
                             onDragEnd={handleDragEnd}
                           >
                             <span>
-                              {course.name}
+                              {course.course_id}
                               {previewState &&
                                 previewState.sourceYearIndex === yearIndex &&
                                 previewState.sourceTerm === "fall" &&
@@ -892,7 +764,7 @@ const FourYearCoursePlannerV3 = () => {
                             </span>
                             <div className="flex items-center">
                               <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs mr-2">
-                                {course.units ? Number(course.units).toFixed(1) : "0.0"}
+                                {course.credits ? Number(course.credits).toFixed(1) : "0.0"}
                               </span>
                               <button
                                 onClick={() =>
@@ -922,7 +794,7 @@ const FourYearCoursePlannerV3 = () => {
                               previewState.targetTerm === "fall" &&
                               previewState.targetCourseIndex === courseIndex ? (
                               <div className="text-yellow-600">
-                                {previewState.course.name} (Preview)
+                                {previewState.course.course_id} (Preview)
                               </div>
                             ) : (
                               "Drop course here"
@@ -977,7 +849,7 @@ const FourYearCoursePlannerV3 = () => {
                             onDragEnd={handleDragEnd}
                           >
                             <span>
-                              {course.name}
+                              {course.course_id}
                               {previewState &&
                                 previewState.sourceYearIndex === yearIndex &&
                                 previewState.sourceTerm === "winter" &&
@@ -990,7 +862,7 @@ const FourYearCoursePlannerV3 = () => {
                             </span>
                             <div className="flex items-center">
                               <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs mr-2">
-                                {course.units.toFixed(1)}
+                                {course.credits.toFixed(1)}
                               </span>
                               <button
                                 onClick={() =>
@@ -1020,7 +892,7 @@ const FourYearCoursePlannerV3 = () => {
                               previewState.targetTerm === "winter" &&
                               previewState.targetCourseIndex === courseIndex ? (
                               <div className="text-yellow-600">
-                                {previewState.course.name} (Preview)
+                                {previewState.course.course_id} (Preview)
                               </div>
                             ) : (
                               "Drop course here"
@@ -1075,7 +947,7 @@ const FourYearCoursePlannerV3 = () => {
                             onDragEnd={handleDragEnd}
                           >
                             <span>
-                              {course.name}
+                              {course.course_id}
                               {previewState &&
                                 previewState.sourceYearIndex === yearIndex &&
                                 previewState.sourceTerm === "spring" &&
@@ -1088,7 +960,7 @@ const FourYearCoursePlannerV3 = () => {
                             </span>
                             <div className="flex items-center">
                               <span className="bg-gray-300 text-gray-700 rounded-full px-2 py-1 text-xs mr-2">
-                                {course.units.toFixed(1)}
+                                {course.credits.toFixed(1)}
                               </span>
                               <button
                                 onClick={() =>
@@ -1118,7 +990,7 @@ const FourYearCoursePlannerV3 = () => {
                               previewState.targetTerm === "spring" &&
                               previewState.targetCourseIndex === courseIndex ? (
                               <div className="text-yellow-600">
-                                {previewState.course.name} (Preview)
+                                {previewState.course.course_id} (Preview)
                               </div>
                             ) : (
                               "Drop course here"
@@ -1152,16 +1024,34 @@ const FourYearCoursePlannerV3 = () => {
                 className="w-full p-2 mb-4 border border-gray-300 rounded"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
+                onKeyDown={handleKeyDown}
               />
-              <div className="space-y-2">
-                {filteredCourses.map((course) => (
+              {isCourseLoading ? (
+        <div className="flex justify-center py-4">
+          <div className="animate-spin rounded-full h-6 w-6 border-t-2 border-b-2 border-blue-500" />
+        </div>
+        ) : searchResults.length === 0 ? (
+          <div className="text-gray-500 text-sm text-center py-4">No results found.</div>
+      ) : (
+        <div className="space-y-2">
+          {searchResults.map((course) => (
+            <CourseItem
+              key={course.id}
+              course={course}
+              onDragStart={(e) => handleDragStart(e, course, true)}
+              onDragEnd={handleDragEnd}
+            />
+          ))}
+      </div>
+      )}
+              {/* <div className="space-y-2">
+                {searchResults.map((course) => (
                   <div
                     key={course.id}
                     className="p-2 bg-gray-50 border border-gray-200 rounded-lg cursor-move hover:bg-gray-100"
                     draggable
                     onDragStart={(e) => handleDragStart(e, course, true)}
                     onDragEnd={handleDragEnd}
-                    onKeyDown = {handleKeyDown}
                   >
                     
                     <div className="flex justify-between items-center">
@@ -1196,7 +1086,7 @@ const FourYearCoursePlannerV3 = () => {
                     </div>
                   </div>
                 ))}
-              </div>
+              </div> */}
             </div>
           </div>
 

@@ -8,5 +8,5 @@ langchain-text-splitters
 langchain-core
 fastapi
 pydantic
-agents
+#agents
 uvicorn

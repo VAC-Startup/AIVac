@@ -2,7 +2,6 @@ import express from "express";
 import { searchCourses } from "../controllers/searchController.js";
 
 const router = express.Router();
-
 router.post("/", async (req, res) => {
   try {
     const { query } = req.body;
