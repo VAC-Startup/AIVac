@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import CourseItem  from "./CourseItem";
+import { debounce } from "lodash"; 
+
 
 const FourYearCoursePlannerV3 = () => {
   // Sample course data - in a real app this would come from an API
@@ -94,6 +96,7 @@ const FourYearCoursePlannerV3 = () => {
       setIsCourseLoading(false);
     }
   };
+  const debouncedSearch = debounce(handleSearch, 500);
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
       handleSearch(searchTerm);  // Pass current search value
@@ -1023,8 +1026,11 @@ const FourYearCoursePlannerV3 = () => {
                 placeholder="Search courses..."
                 className="w-full p-2 mb-4 border border-gray-300 rounded"
                 value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                onKeyDown={handleKeyDown}
+                onChange={(e) => {
+                  const newQuery = e.target.value;
+                  setSearchTerm(newQuery);
+                  debouncedSearch(newQuery); // 🔥 triggers search on every keystroke
+                }}
               />
               {isCourseLoading ? (
         <div className="flex justify-center py-4">

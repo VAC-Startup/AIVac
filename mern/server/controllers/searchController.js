@@ -17,34 +17,64 @@ function normalizeCourseID(query) {
   return query.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
 }
 
+// export function searchCourses(query) {
+//   const normalized = normalizeCourseID(query);
+//   const queryLower = query.toLowerCase();
+
+//   if (!queryLower) return [];
+
+//   // Exact match by normalized course ID
+//   const exactMatch = allCourses.find(
+//     course => course.normalized_course_id?.toLowerCase() === normalized
+//   );
+//   if (exactMatch) return [exactMatch];
+
+//   // Prefix match by course ID (e.g., "dsc")
+//   const prefixMatches = allCourses.filter(course =>
+//     course.normalized_course_id?.startsWith(normalized)
+//   );
+
+//   // Partial match by course name
+//   const nameMatches = allCourses.filter(course =>
+//     course.course_name?.toLowerCase().includes(queryLower)
+//   );
+
+//   // Combine + deduplicate
+//   const combined = [...prefixMatches, ...nameMatches];
+//   const unique = Array.from(new Map(combined.map(c => [c.course_id, c])).values());
+
+//   return unique;
+// }
 export function searchCourses(query) {
-  const normalized = normalizeCourseID(query); // e.g., "dsc10"
-  const hasDigits = /\d/.test(normalized);
-  console.log(`🔎 Normalized query: '${normalized}' (hasDigits: ${hasDigits})`);
+  const normalized = normalizeCourseID(query);
+  const queryLower = query.toLowerCase();
 
-  if (!normalized) {
-    console.warn("⚠️ Empty or invalid normalized query");
-    return [];
-  }
+  if (!queryLower) return [];
 
-  if (!hasDigits) {
-    // Prefix match
-    const prefixMatches = allCourses.filter(course =>
-      course.normalized_course_id?.toLowerCase().startsWith(normalized)
-    );
-    console.log(`📌 Found ${prefixMatches.length} prefix matches for '${normalized}'`);
-    return prefixMatches;
-  }
-
-  // Exact match
+  // Exact match by normalized course ID
   const exactMatch = allCourses.find(
     course => course.normalized_course_id?.toLowerCase() === normalized
   );
-  if (exactMatch) {
-    console.log(`✅ Exact match found for '${normalized}'`);
-    return [exactMatch];
-  } else {
-    console.log(`❌ No exact match found for '${normalized}'`);
-    return [];
-  }
+
+  // Courses that start with the normalized string (including the exact match again)
+  const prefixMatches = allCourses.filter(course =>
+    course.normalized_course_id?.toLowerCase().startsWith(normalized)
+  );
+
+  // Course name partial matches
+  const nameMatches = allCourses.filter(course =>
+    course.course_name?.toLowerCase().includes(queryLower)
+  );
+
+  // Combine all, with exactMatch at the beginning (if found)
+  const combined = [
+    ...(exactMatch ? [exactMatch] : []),
+    ...prefixMatches,
+    ...nameMatches,
+  ];
+
+  // Deduplicate by course_id
+  const unique = Array.from(new Map(combined.map(c => [c.course_id, c])).values());
+
+  return unique;
 }
