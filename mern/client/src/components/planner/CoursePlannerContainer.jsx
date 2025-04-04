@@ -185,8 +185,11 @@ const CoursePlannerContainer = () => {
     <div>
       {/* Button for saving */}
       <div className="flex justify-end p-3">
-        <button className="bg-blue-500 text-white">Save</button>
+        <button className="bg-stone-400 hover:bg-blue-500 text-white p-2 rounded-xl font-semibold shadow-md shadow-gray-300 px-3 mx-3">Update Current Plan</button>
+        <button className="bg-stone-400 hover:bg-blue-500 text-white p-2 rounded-xl font-semibold shadow-md shadow-gray-300 px-3">Save As New Plan</button>
+
       </div>
+      
 
       <CoursePlanner
         schedule={schedule}

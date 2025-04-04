@@ -116,12 +116,12 @@ const RightSidebar = () => {
 
   return (
     <div
-      className="relative bg-white shadow"
+      className="relative bg-white"
       style={{ width: `${rightSidebarWidth}px` }}
     >
       {/* Resize handle on the left side -- Divider between planner and Right Side Bar */}
       <div
-        className="absolute top-0 left-0 h-full w-1 bg-gray-300 hover:bg-gray-400 cursor-ew-resize z-10"
+        className="absolute top-0 left-0 h-full w-1 bg-gray-300 hover:bg-gray-400 cursor-ew-resize"
         onMouseDown={(e) => {
           e.preventDefault();
           const startX = e.clientX;

@@ -7,7 +7,7 @@ let postRoutes = express.Router();
 
 
 // get all
-// http://localhost:3000/ports
+// http://localhost:5050/ports
 postRoutes.route("/plan").get(async (request, response) => {
     let database = getDb();
     let data = await database.collection("planned_courses").find({}).toArray();
@@ -56,7 +56,12 @@ postRoutes.route("/plan/:id").put(async (request, response) => {
         $set: {
             course_id: request.body.course_id,
             course_name: request.body.course_name,
-            description: request.body.description
+            description: request.body.description,
+            professors: request.body.professors,
+            credits: request.body.credits,
+            prerequisites: request.body.prerequisites,
+            offerings: request.body.offerings,
+            normalized_course_id: request.body.normalized_course_id            
         }
     };
     let data = await database.collection("planned_courses").updateOne({_id: new ObjectId(request.params.id)}, mongoObject);
@@ -73,23 +78,3 @@ postRoutes.route("/plan/:id").get(async (request, response) => {
 })
 
 export default postRoutes;
-
-/*
-async function getPlans(query = {}) {
-    const plans = await collection.find(query).toArray();
-    return plans;
-}
-  
-async function updatePlan(id, updatedFields) {
-    const result = await collection.updateOne(
-      { _id: new ObjectId(id) },
-      { $set: updatedFields }
-    );
-    return result.modifiedCount;
-}
-
-async function deletePlan(id) {
-    const result = await collection.deleteOne({ _id: new ObjectId(id) });
-    return result.deletedCount;
-}
-*/

@@ -4,7 +4,7 @@ const Header = ({
   currentPage
 }) => {
   return (
-    <header className="bg-blue-500 text-white p-3 text-xl font-bold">
+    <header className="bg-blue-500 text-white p-3 text-xl font-bold shadow-md">
       {currentPage}
     </header>
   );

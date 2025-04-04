@@ -18,11 +18,11 @@ app.use(express.json());
 
 app.use("/chat", chat);
 app.use("/search-courses", searchRouter);
-app.use(posts);
+//app.use(posts);
 
 
 // start the Express server
 app.listen(PORT, () => {
-  connectToServer();
+  //connectToServer();
   console.log(`Server listening on port ${PORT}`);
 });
