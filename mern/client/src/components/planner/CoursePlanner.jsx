@@ -16,7 +16,6 @@ const CoursePlanner = ({
   previewState,
   getSlotClassName,
 }) => {
-  
   return (
     <div className="[&>*]:m-4">
       {schedule.map((year, yearIndex) => (

@@ -6,11 +6,15 @@ import {
 } from "react-router-dom";
 import App from "./App";
 import "./index.css";
+import { ScheduleProvider } from "./context/ScheduleContext";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />,
+    element: 
+      <ScheduleProvider>
+        <App />
+      </ScheduleProvider>,
     children: [],
   },
 ]);

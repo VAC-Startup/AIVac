@@ -77,6 +77,19 @@ const TermBlock = ({
           )}
         </div>
       ))}
+      
+      {/* Always ensure at least one empty slot */}
+      {!courses.some(course => course === null) && (
+        <div 
+          className="border border-gray-300 rounded mb-2 p-2"
+          onDragOver={(e) => handleDragOver(e, yearIndex, termKey, courses.length)}
+          onDrop={(e) => handleDrop(e, yearIndex, termKey, courses.length)}
+        >
+          <div className="text-gray-400 text-center py-1">
+            Drop course here
+          </div>
+        </div>
+      )}
     </div>
   );
 };

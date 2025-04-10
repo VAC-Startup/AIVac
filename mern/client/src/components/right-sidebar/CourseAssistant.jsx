@@ -45,7 +45,12 @@ const CourseAssistant = ({
                       : "bg-gray-200 text-gray-800"
                   }`}
                 >
-                  {msg.content}
+                  {typeof msg.content === 'string' ? msg.content : JSON.stringify(msg.content, null, 2)}
+                  {msg.hasSchedule && (
+                    <div className="mt-2 text-sm text-green-600 bg-green-100 p-1 rounded">
+                      Schedule updated ✓
+                    </div>
+                  )}
                 </div>
               ))}
               {isLoading && (

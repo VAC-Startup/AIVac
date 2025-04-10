@@ -19,6 +19,8 @@ const YearBlock = ({
   dragTarget,
   invalidDrop
 }) => {
+  // Debug output for each year
+  console.log(`Rendering YearBlock ${yearIndex} (${yearLabel}):`, year);
   return (
     <div className="mb-6 border rounded-lg overflow-hidden shadow-md">
       {/* Year header */}
