@@ -185,5 +185,5 @@ async def chat(request: ChatRequest):
         
         # Invoke the AI with the enhanced context
         result = await graph.ainvoke(context)
-        return result["answer"]
+        return result["agent_answer"]
     
