@@ -5,24 +5,32 @@ import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 
 // Load environment variables from root .env file
-dotenv.config({ path: path.join(process.cwd(), '../../.env') });
+const rootPath = path.resolve(process.cwd(), '../../.env');
+dotenv.config({ path: rootPath });
+console.log('Loading .env from:', rootPath);
 
 const router = express.Router();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Load the service account key using environment variable
-const GOOGLE_SERVICE_ACCOUNT_PATH = process.env.GOOGLE_SERVICE_ACCOUNT_PATH || 'credentials/academic-planner-463804-202e89b2e5e4.json';
-const KEYFILE_PATH = path.join(__dirname, '../..', GOOGLE_SERVICE_ACCOUNT_PATH);
+// Configure Google Sheets API using service account
+// const GOOGLE_SERVICE_ACCOUNT_PATH = process.env.GOOGLE_SERVICE_ACCOUNT_PATH || 'credentials/google-service-account.json';
+// const KEYFILE_PATH = path.join(process.cwd(), '..', '..', GOOGLE_SERVICE_ACCOUNT_PATH);
+const KEYFILE_PATH = path.join(__dirname, 'ucsd-planner-463920-0b8bad5f9948.json');
 
-// Configure Google Sheets API
+
+console.log('Looking for service account key at:', KEYFILE_PATH);
+
 const auth = new google.auth.GoogleAuth({
   keyFile: KEYFILE_PATH,
-  scopes: ['https://www.googleapis.com/auth/spreadsheets',
-  'https://www.googleapis.com/auth/drive']
+  scopes: [
+    'https://www.googleapis.com/auth/spreadsheets',
+    'https://www.googleapis.com/auth/drive'
+  ]
 });
 
 const sheets = google.sheets({ version: 'v4' });
+const drive = google.drive({ version: 'v3' });
 
 // POST /api/export/google-sheets
 router.post('/google-sheets', async (req, res) => {
@@ -32,7 +40,6 @@ router.post('/google-sheets', async (req, res) => {
     if (!schedule || !yearLabels) {
       return res.status(400).json({ error: 'Missing schedule or yearLabels data' });
     }
-
 
     // Get authenticated client
     const authClient = await auth.getClient();
@@ -186,9 +193,9 @@ router.post('/google-sheets', async (req, res) => {
       },
     });
 
-    // Note: To make the spreadsheet publicly viewable, enable Google Drive API
-    const drive = google.drive({ version: 'v3', auth: authClient });
+    // Make the spreadsheet publicly viewable
     await drive.permissions.create({
+      auth: authClient,
       fileId: spreadsheetId,
       resource: {
         role: 'reader',

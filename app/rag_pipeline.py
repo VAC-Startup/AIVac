@@ -1,13 +1,4 @@
-"""
-Advanced RAG Pipeline for Course Advisory System
-==============================================
 
-This module implements a complete Retrieval-Augmented Generation (RAG) pipeline
-for the UCSD course advisory system using Pinecone and OpenAI/Claude.
-
-Author: Claude Assistant
-Date: 2025-01-21
-"""
 
 import os
 import asyncio
